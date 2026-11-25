@@ -1869,3 +1869,36 @@ Kinokarte -> Musik & Filme
 Oscar -> Musik & Filme
 Maskenbildner -> Musik & Filme
 Stuntman -> Musik & Filme
+Schwein -> Tiere
+Huhn -> Tiere
+Ente -> Tiere
+Gans -> Tiere
+Löwe -> Tiere
+Tiger -> Tiere
+Leopard -> Tiere
+Gepard -> Tiere
+Bär -> Tiere
+Wolf -> Tiere
+Fuchs -> Tiere
+Kaninchen -> Tiere
+Igel -> Tiere
+Eichhörnchen -> Tiere
+Reh -> Tiere
+Hirsch -> Tiere
+Wildschwein -> Tiere
+Dachs -> Tiere
+Biber -> Tiere
+Otter -> Tiere
+Wal -> Tiere
+Delfin -> Tiere
+Krake -> Tiere
+Schildkröte -> Tiere
+Krokodil -> Tiere
+Pinguin -> Tiere
+Flamingo -> Tiere
+Papagei -> Tiere
+Schwan -> Tiere
+Storch -> Tiere
+Schmetterling -> Tiere
+Biene -> Tiere
+Marienkäfer -> Tiere
