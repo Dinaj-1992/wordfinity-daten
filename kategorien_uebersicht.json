@@ -1,6 +1,6 @@
 {
   "anzahl_woerterbuch": 124545,
-  "anzahl_ziele": 1760,
+  "anzahl_ziele": 1781,
   "zielwoerter": {
     "Fahrzeug": "Fahrzeuge & Verkehr",
     "Verkehrsmittel": "Fahrzeuge & Verkehr",
@@ -1761,6 +1761,27 @@
     "Rückspiegel": "Fahrzeuge & Verkehr",
     "Helm": "Fahrzeuge & Verkehr",
     "Schaffner": "Fahrzeuge & Verkehr",
-    "U-Bahn": "Fahrzeuge & Verkehr"
+    "U-Bahn": "Fahrzeuge & Verkehr",
+    "Jeans": "Kleidung & Mode",
+    "Rock": "Kleidung & Mode",
+    "Krawatte": "Kleidung & Mode",
+    "Fliege": "Kleidung & Mode",
+    "Strumpf": "Kleidung & Mode",
+    "Sandale": "Kleidung & Mode",
+    "Hausschuh": "Kleidung & Mode",
+    "Kappe": "Kleidung & Mode",
+    "Schal": "Kleidung & Mode",
+    "Handschuh": "Kleidung & Mode",
+    "Rucksack": "Kleidung & Mode",
+    "Bademantel": "Kleidung & Mode",
+    "Badeanzug": "Kleidung & Mode",
+    "Strickjacke": "Kleidung & Mode",
+    "Kapuzenpullover": "Kleidung & Mode",
+    "Trikot": "Kleidung & Mode",
+    "Kostüm": "Kleidung & Mode",
+    "Uniform": "Kleidung & Mode",
+    "Schürze": "Kleidung & Mode",
+    "Knopf": "Kleidung & Mode",
+    "Reißverschluss": "Kleidung & Mode"
   }
 }
