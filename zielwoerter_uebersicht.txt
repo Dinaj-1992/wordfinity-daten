@@ -2016,3 +2016,32 @@ Nudel -> Essen & Trinken
 Reis -> Essen & Trinken
 Tee -> Essen & Trinken
 Limonade -> Essen & Trinken
+Apotheker -> Berufe
+Krankenpfleger -> Berufe
+Polizist -> Berufe
+Feuerwehrmann -> Berufe
+Richter -> Berufe
+Anwalt -> Berufe
+Erzieher -> Berufe
+Metzger -> Berufe
+Koch -> Berufe
+Kellner -> Berufe
+Schneider -> Berufe
+Zimmermann -> Berufe
+Maurer -> Berufe
+Klempner -> Berufe
+Dachdecker -> Berufe
+Grafiker -> Berufe
+Bibliothekar -> Berufe
+Buchhalter -> Berufe
+Verkäufer -> Berufe
+Kassierer -> Berufe
+Briefträger -> Berufe
+Busfahrer -> Berufe
+Lokführer -> Berufe
+Landwirt -> Berufe
+Förster -> Berufe
+Fischer -> Berufe
+Goldschmied -> Berufe
+Optiker -> Berufe
+Dolmetscher -> Berufe
