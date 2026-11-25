@@ -1902,3 +1902,29 @@ Storch -> Tiere
 Schmetterling -> Tiere
 Biene -> Tiere
 Marienkäfer -> Tiere
+Sonne -> Natur & Wetter
+Mond -> Natur & Wetter
+Regen -> Natur & Wetter
+Hagel -> Natur & Wetter
+Blitz -> Natur & Wetter
+Donner -> Natur & Wetter
+Regenbogen -> Natur & Wetter
+Frost -> Natur & Wetter
+Eis -> Natur & Wetter
+Tau -> Natur & Wetter
+Gras -> Natur & Wetter
+Strauch -> Natur & Wetter
+Wiese -> Natur & Wetter
+Feld -> Natur & Wetter
+Berg -> Natur & Wetter
+Tal -> Natur & Wetter
+Felsen -> Natur & Wetter
+Höhle -> Natur & Wetter
+Vulkan -> Natur & Wetter
+Fluss -> Natur & Wetter
+Bach -> Natur & Wetter
+Wüste -> Natur & Wetter
+Dschungel -> Natur & Wetter
+Sumpf -> Natur & Wetter
+Erdbeben -> Natur & Wetter
+Sonnenuntergang -> Natur & Wetter
