@@ -1,6 +1,6 @@
 {
-  "anzahl_woerterbuch": 7774,
-  "anzahl_ziele": 1736,
+  "anzahl_woerterbuch": 124545,
+  "anzahl_ziele": 1760,
   "zielwoerter": {
     "Fahrzeug": "Fahrzeuge & Verkehr",
     "Verkehrsmittel": "Fahrzeuge & Verkehr",
@@ -1737,6 +1737,30 @@
     "Tollpatsch": "Sport & Hobby",
     "Kanonenkugel": "Sport & Hobby",
     "Botschafterin": "Berufe",
-    "Schluckauf": "Sport & Hobby"
+    "Schluckauf": "Sport & Hobby",
+    "Motorrad": "Fahrzeuge & Verkehr",
+    "Roller": "Fahrzeuge & Verkehr",
+    "Lastwagen": "Fahrzeuge & Verkehr",
+    "Segelboot": "Fahrzeuge & Verkehr",
+    "Kanu": "Fahrzeuge & Verkehr",
+    "Kajak": "Fahrzeuge & Verkehr",
+    "Bagger": "Fahrzeuge & Verkehr",
+    "Krankenwagen": "Fahrzeuge & Verkehr",
+    "Feuerwehrauto": "Fahrzeuge & Verkehr",
+    "Wohnmobil": "Fahrzeuge & Verkehr",
+    "Wohnwagen": "Fahrzeuge & Verkehr",
+    "Anhänger": "Fahrzeuge & Verkehr",
+    "Tankstelle": "Fahrzeuge & Verkehr",
+    "Kreisverkehr": "Fahrzeuge & Verkehr",
+    "Landstraße": "Fahrzeuge & Verkehr",
+    "Tunnel": "Fahrzeuge & Verkehr",
+    "Flughafen": "Fahrzeuge & Verkehr",
+    "Reifen": "Fahrzeuge & Verkehr",
+    "Bremse": "Fahrzeuge & Verkehr",
+    "Auspuff": "Fahrzeuge & Verkehr",
+    "Rückspiegel": "Fahrzeuge & Verkehr",
+    "Helm": "Fahrzeuge & Verkehr",
+    "Schaffner": "Fahrzeuge & Verkehr",
+    "U-Bahn": "Fahrzeuge & Verkehr"
   }
 }
