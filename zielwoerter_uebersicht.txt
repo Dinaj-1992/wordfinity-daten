@@ -2045,3 +2045,37 @@ Fischer -> Berufe
 Goldschmied -> Berufe
 Optiker -> Berufe
 Dolmetscher -> Berufe
+Tablet -> Technik & Gaming
+Smartphone -> Technik & Gaming
+Drucker -> Technik & Gaming
+Scanner -> Technik & Gaming
+Festplatte -> Technik & Gaming
+Speicherstick -> Technik & Gaming
+Prozessor -> Technik & Gaming
+Grafikkarte -> Technik & Gaming
+Router -> Technik & Gaming
+Internet -> Technik & Gaming
+Netzwerk -> Technik & Gaming
+Server -> Technik & Gaming
+Software -> Technik & Gaming
+Algorithmus -> Technik & Gaming
+Datenbank -> Technik & Gaming
+Roboter -> Technik & Gaming
+Drohne -> Technik & Gaming
+Batterie -> Technik & Gaming
+Ladegerät -> Technik & Gaming
+Steckdose -> Technik & Gaming
+Sensor -> Technik & Gaming
+Laser -> Technik & Gaming
+Spielkonsole -> Technik & Gaming
+Joystick -> Technik & Gaming
+Computerspiel -> Technik & Gaming
+Level -> Technik & Gaming
+Avatar -> Technik & Gaming
+Endgegner -> Technik & Gaming
+Spielstand -> Technik & Gaming
+Multiplayer -> Technik & Gaming
+Livestream -> Technik & Gaming
+Webcam -> Technik & Gaming
+Touchscreen -> Technik & Gaming
+Betriebssystem -> Technik & Gaming
