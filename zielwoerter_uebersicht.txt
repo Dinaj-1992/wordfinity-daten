@@ -2079,3 +2079,37 @@ Livestream -> Technik & Gaming
 Webcam -> Technik & Gaming
 Touchscreen -> Technik & Gaming
 Betriebssystem -> Technik & Gaming
+Sauerstoff -> Wissenschaft
+Wasserstoff -> Wissenschaft
+Kohlenstoff -> Wissenschaft
+Gold -> Wissenschaft
+Silber -> Wissenschaft
+Eisen -> Wissenschaft
+Kupfer -> Wissenschaft
+Schwerkraft -> Wissenschaft
+Lichtgeschwindigkeit -> Wissenschaft
+Elektrizität -> Wissenschaft
+Strahlung -> Wissenschaft
+Prisma -> Wissenschaft
+Mikroskop -> Wissenschaft
+Labor -> Wissenschaft
+Hypothese -> Wissenschaft
+Theorie -> Wissenschaft
+Formel -> Wissenschaft
+Gleichung -> Wissenschaft
+Dreieck -> Wissenschaft
+Kreis -> Wissenschaft
+Zylinder -> Wissenschaft
+Zelle -> Wissenschaft
+Bakterium -> Wissenschaft
+Virus -> Wissenschaft
+Genetik -> Wissenschaft
+Fossil -> Wissenschaft
+Dinosaurier -> Wissenschaft
+Planet -> Wissenschaft
+Galaxie -> Wissenschaft
+Komet -> Wissenschaft
+Asteroid -> Wissenschaft
+Mondfinsternis -> Wissenschaft
+Erdkern -> Wissenschaft
+Kontinent -> Wissenschaft
