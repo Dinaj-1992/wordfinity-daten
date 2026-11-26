@@ -1,6 +1,6 @@
 {
   "anzahl_woerterbuch": 124545,
-  "anzahl_ziele": 512,
+  "anzahl_ziele": 510,
   "zielwoerter": {
     "persönlichkeiten": "Wirtschaft & Gesellschaft",
     "reformen": "Wirtschaft & Gesellschaft",
@@ -129,8 +129,6 @@
     "hubschrauber": "Technik & Alltag",
     "höhen": "Natur & Umwelt",
     "innovation": "Wirtschaft & Gesellschaft",
-    "kehren": "Natur & Umwelt",
-    "kleinsten": "Essen & Genuss",
     "label": "Kultur & Freizeit",
     "lampe": "Technik & Alltag",
     "manchester": "Kultur & Freizeit",
