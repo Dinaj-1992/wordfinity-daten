@@ -5673,7 +5673,8 @@
     "zielwort": "Bundfaltenhose",
     "kategorie": "Kleidung",
     "datei": "raetsel/0820_bundfaltenhose.json",
-    "anzahl": 12687
+    "anzahl": 12687,
+    "zielwort_entfernt": true
   },
   {
     "id": 821,
@@ -5687,7 +5688,8 @@
     "zielwort": "Oberhemd",
     "kategorie": "Kleidung",
     "datei": "raetsel/0822_oberhemd.json",
-    "anzahl": 12687
+    "anzahl": 12687,
+    "zielwort_entfernt": true
   },
   {
     "id": 823,
@@ -5701,7 +5703,8 @@
     "zielwort": "Karohemd",
     "kategorie": "Kleidung",
     "datei": "raetsel/0824_karohemd.json",
-    "anzahl": 12687
+    "anzahl": 12687,
+    "zielwort_entfernt": true
   },
   {
     "id": 825,
@@ -5750,7 +5753,8 @@
     "zielwort": "Trägertop",
     "kategorie": "Kleidung",
     "datei": "raetsel/0831_trägertop.json",
-    "anzahl": 12687
+    "anzahl": 12687,
+    "zielwort_entfernt": true
   },
   {
     "id": 832,
@@ -5764,7 +5768,8 @@
     "zielwort": "Tunika",
     "kategorie": "Kleidung",
     "datei": "raetsel/0833_tunika.json",
-    "anzahl": 12687
+    "anzahl": 12687,
+    "zielwort_entfernt": true
   },
   {
     "id": 834,
@@ -5806,7 +5811,8 @@
     "zielwort": "Pullunder",
     "kategorie": "Kleidung",
     "datei": "raetsel/0839_pullunder.json",
-    "anzahl": 12687
+    "anzahl": 12687,
+    "zielwort_entfernt": true
   },
   {
     "id": 840,
@@ -5855,7 +5861,8 @@
     "zielwort": "Rettungsweste",
     "kategorie": "Kleidung",
     "datei": "raetsel/0847_rettungsweste.json",
-    "anzahl": 12687
+    "anzahl": 12687,
+    "zielwort_entfernt": true
   },
   {
     "id": 848,
