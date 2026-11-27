@@ -1153,7 +1153,8 @@
     "zielwort": "Gnu",
     "kategorie": "Tiere",
     "datei": "raetsel/0164_gnu.json",
-    "anzahl": 12686
+    "anzahl": 12686,
+    "zielwort_entfernt": true
   },
   {
     "id": 165,
@@ -1174,7 +1175,8 @@
     "zielwort": "Yak",
     "kategorie": "Tiere",
     "datei": "raetsel/0167_yak.json",
-    "anzahl": 12687
+    "anzahl": 12687,
+    "zielwort_entfernt": true
   },
   {
     "id": 168,
@@ -1223,7 +1225,8 @@
     "zielwort": "Damhirsch",
     "kategorie": "Tiere",
     "datei": "raetsel/0174_damhirsch.json",
-    "anzahl": 12687
+    "anzahl": 12687,
+    "zielwort_entfernt": true
   },
   {
     "id": 175,
@@ -1258,21 +1261,24 @@
     "zielwort": "Warzenschwein",
     "kategorie": "Tiere",
     "datei": "raetsel/0179_warzenschwein.json",
-    "anzahl": 12687
+    "anzahl": 12687,
+    "zielwort_entfernt": true
   },
   {
     "id": 180,
     "zielwort": "Tapir",
     "kategorie": "Tiere",
     "datei": "raetsel/0180_tapir.json",
-    "anzahl": 12687
+    "anzahl": 12687,
+    "zielwort_entfernt": true
   },
   {
     "id": 181,
     "zielwort": "Okapi",
     "kategorie": "Tiere",
     "datei": "raetsel/0181_okapi.json",
-    "anzahl": 12687
+    "anzahl": 12687,
+    "zielwort_entfernt": true
   },
   {
     "id": 182,
@@ -1293,7 +1299,8 @@
     "zielwort": "Nasenbär",
     "kategorie": "Tiere",
     "datei": "raetsel/0185_nasenbär.json",
-    "anzahl": 12687
+    "anzahl": 12687,
+    "zielwort_entfernt": true
   },
   {
     "id": 186,
@@ -1328,7 +1335,8 @@
     "zielwort": "Seekuh",
     "kategorie": "Tiere",
     "datei": "raetsel/0190_seekuh.json",
-    "anzahl": 12687
+    "anzahl": 12687,
+    "zielwort_entfernt": true
   },
   {
     "id": 191,
@@ -1377,14 +1385,16 @@
     "zielwort": "Schweinswal",
     "kategorie": "Tiere",
     "datei": "raetsel/0197_schweinswal.json",
-    "anzahl": 12687
+    "anzahl": 12687,
+    "zielwort_entfernt": true
   },
   {
     "id": 199,
     "zielwort": "Beluga",
     "kategorie": "Tiere",
     "datei": "raetsel/0199_beluga.json",
-    "anzahl": 12687
+    "anzahl": 12687,
+    "zielwort_entfernt": true
   },
   {
     "id": 200,
