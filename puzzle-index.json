@@ -1779,7 +1779,8 @@
     "zielwort": "Rote Bete",
     "kategorie": "Essen & Trinken",
     "datei": "raetsel/0254_rote bete.json",
-    "anzahl": 12687
+    "anzahl": 12687,
+    "zielwort_entfernt": true
   },
   {
     "id": 255,
