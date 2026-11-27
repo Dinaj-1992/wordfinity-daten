@@ -6646,7 +6646,8 @@
     "zielwort": "Melone",
     "kategorie": "Kleidung",
     "datei": "raetsel/0966_melone.json",
-    "anzahl": 12686
+    "anzahl": 12686,
+    "zielwort_entfernt": true
   },
   {
     "id": 967,
@@ -6716,7 +6717,8 @@
     "zielwort": "Dreieckstuch",
     "kategorie": "Kleidung",
     "datei": "raetsel/0976_dreieckstuch.json",
-    "anzahl": 12687
+    "anzahl": 12687,
+    "zielwort_entfernt": true
   },
   {
     "id": 977,
