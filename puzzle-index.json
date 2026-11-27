@@ -5070,7 +5070,8 @@
     "zielwort": "Kapillare",
     "kategorie": "Körper & Gesundheit",
     "datei": "raetsel/0729_kapillare.json",
-    "anzahl": 12687
+    "anzahl": 12687,
+    "zielwort_entfernt": true
   },
   {
     "id": 730,
