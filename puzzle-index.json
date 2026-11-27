@@ -214,14 +214,16 @@
     "zielwort": "Drossel",
     "kategorie": "Tiere",
     "datei": "raetsel/0031_drossel.json",
-    "anzahl": 12687
+    "anzahl": 12687,
+    "zielwort_entfernt": true
   },
   {
     "id": 32,
     "zielwort": "Fink",
     "kategorie": "Tiere",
     "datei": "raetsel/0032_fink.json",
-    "anzahl": 12687
+    "anzahl": 12687,
+    "zielwort_entfernt": true
   },
   {
     "id": 33,
@@ -368,7 +370,8 @@
     "zielwort": "Mäusebussard",
     "kategorie": "Tiere",
     "datei": "raetsel/0053_mäusebussard.json",
-    "anzahl": 12687
+    "anzahl": 12687,
+    "zielwort_entfernt": true
   },
   {
     "id": 54,
@@ -382,14 +385,16 @@
     "zielwort": "Sperber",
     "kategorie": "Tiere",
     "datei": "raetsel/0055_sperber.json",
-    "anzahl": 12687
+    "anzahl": 12687,
+    "zielwort_entfernt": true
   },
   {
     "id": 56,
     "zielwort": "Milan",
     "kategorie": "Tiere",
     "datei": "raetsel/0056_milan.json",
-    "anzahl": 12687
+    "anzahl": 12687,
+    "zielwort_entfernt": true
   },
   {
     "id": 57,
@@ -417,7 +422,8 @@
     "zielwort": "Graureiher",
     "kategorie": "Tiere",
     "datei": "raetsel/0060_graureiher.json",
-    "anzahl": 12687
+    "anzahl": 12687,
+    "zielwort_entfernt": true
   },
   {
     "id": 61,
@@ -438,7 +444,8 @@
     "zielwort": "Höckerschwan",
     "kategorie": "Tiere",
     "datei": "raetsel/0063_höckerschwan.json",
-    "anzahl": 12687
+    "anzahl": 12687,
+    "zielwort_entfernt": true
   },
   {
     "id": 64,
@@ -452,14 +459,16 @@
     "zielwort": "Silbermöwe",
     "kategorie": "Tiere",
     "datei": "raetsel/0065_silbermöwe.json",
-    "anzahl": 12687
+    "anzahl": 12687,
+    "zielwort_entfernt": true
   },
   {
     "id": 66,
     "zielwort": "Lachmöwe",
     "kategorie": "Tiere",
     "datei": "raetsel/0066_lachmöwe.json",
-    "anzahl": 12687
+    "anzahl": 12687,
+    "zielwort_entfernt": true
   },
   {
     "id": 67,
@@ -529,7 +538,8 @@
     "zielwort": "Rebhuhn",
     "kategorie": "Tiere",
     "datei": "raetsel/0077_rebhuhn.json",
-    "anzahl": 12687
+    "anzahl": 12687,
+    "zielwort_entfernt": true
   },
   {
     "id": 78,
@@ -571,7 +581,8 @@
     "zielwort": "Dohle",
     "kategorie": "Tiere",
     "datei": "raetsel/0083_dohle.json",
-    "anzahl": 12687
+    "anzahl": 12687,
+    "zielwort_entfernt": true
   },
   {
     "id": 84,
@@ -585,21 +596,24 @@
     "zielwort": "Rauchschwalbe",
     "kategorie": "Tiere",
     "datei": "raetsel/0085_rauchschwalbe.json",
-    "anzahl": 12687
+    "anzahl": 12687,
+    "zielwort_entfernt": true
   },
   {
     "id": 86,
     "zielwort": "Mehlschwalbe",
     "kategorie": "Tiere",
     "datei": "raetsel/0086_mehlschwalbe.json",
-    "anzahl": 12687
+    "anzahl": 12687,
+    "zielwort_entfernt": true
   },
   {
     "id": 87,
     "zielwort": "Mauersegler",
     "kategorie": "Tiere",
     "datei": "raetsel/0087_mauersegler.json",
-    "anzahl": 12687
+    "anzahl": 12687,
+    "zielwort_entfernt": true
   },
   {
     "id": 88,
@@ -620,7 +634,8 @@
     "zielwort": "Feldlerche",
     "kategorie": "Tiere",
     "datei": "raetsel/0090_feldlerche.json",
-    "anzahl": 12687
+    "anzahl": 12687,
+    "zielwort_entfernt": true
   },
   {
     "id": 91,
@@ -634,7 +649,8 @@
     "zielwort": "Wiedehopf",
     "kategorie": "Tiere",
     "datei": "raetsel/0092_wiedehopf.json",
-    "anzahl": 12687
+    "anzahl": 12687,
+    "zielwort_entfernt": true
   },
   {
     "id": 93,
