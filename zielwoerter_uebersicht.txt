@@ -1,600 +1,1960 @@
-persönlichkeiten -> Wirtschaft & Gesellschaft
-reformen -> Wirtschaft & Gesellschaft
-religionen -> Wirtschaft & Gesellschaft
-reste -> Essen & Genuss
-rhythmus -> Sport & Bewegung
-römische -> Wirtschaft & Gesellschaft
-saft -> Essen & Genuss
-schalten -> Technik & Alltag
-scheidung -> Wirtschaft & Gesellschaft
-schienen -> Technik & Alltag
-schweine -> Essen & Genuss
-sorten -> Essen & Genuss
-sportlich -> Sport & Bewegung
-statistiken -> Wirtschaft & Gesellschaft
-sätzen -> Sport & Bewegung
-tatsachen -> Wirtschaft & Gesellschaft
-techniker -> Technik & Alltag
-toren -> Sport & Bewegung
-tödlich -> Körper & Gesundheit
-töne -> Kultur & Freizeit
-unheimlich -> Natur & Umwelt
-unterschrieben -> Wirtschaft & Gesellschaft
-vereinten -> Wirtschaft & Gesellschaft
-vergleiche -> Wirtschaft & Gesellschaft
-verkehrt -> Reisen & Orte
-verweigert -> Wirtschaft & Gesellschaft
-vorbereitungen -> Wirtschaft & Gesellschaft
-vorpommern -> Reisen & Orte
-warmen -> Essen & Genuss
-zeitschriften -> Wirtschaft & Gesellschaft
-zuhören -> Kultur & Freizeit
-zusammengestellt -> Wirtschaft & Gesellschaft
-übersetzer -> Wirtschaft & Gesellschaft
-absichtlich -> Wirtschaft & Gesellschaft
-abwechslung -> Essen & Genuss
-amtsgericht -> Wirtschaft & Gesellschaft
-ansprechen -> Körper & Gesundheit
-aufgerufen -> Wirtschaft & Gesellschaft
-ausblick -> Reisen & Orte
-bakterien -> Körper & Gesundheit
-bedingung -> Wirtschaft & Gesellschaft
-benutze -> Technik & Alltag
-berufliche -> Wirtschaft & Gesellschaft
-beschwerde -> Wirtschaft & Gesellschaft
-brötchen -> Essen & Genuss
-busch -> Natur & Umwelt
-bürgerlichen -> Wirtschaft & Gesellschaft
-campus -> Reisen & Orte
-depression -> Körper & Gesundheit
-dinger -> Technik & Alltag
-diskriminierung -> Wirtschaft & Gesellschaft
-dreh -> Kultur & Freizeit
-eigenschaft -> Wirtschaft & Gesellschaft
-eingenommen -> Wirtschaft & Gesellschaft
-einnehmen -> Körper & Gesundheit
-elektrischen -> Technik & Alltag
-entschuldigt -> Wirtschaft & Gesellschaft
-erinnerte -> Kultur & Freizeit
-fremd -> Wirtschaft & Gesellschaft
-gemeinsames -> Wirtschaft & Gesellschaft
-gründlich -> Körper & Gesundheit
-heide -> Natur & Umwelt
-heizung -> Technik & Alltag
-hertha -> Sport & Bewegung
-highlight -> Kultur & Freizeit
-hinteren -> Natur & Umwelt
-hoffnungen -> Wirtschaft & Gesellschaft
-jungfrau -> Natur & Umwelt
-jährlichen -> Wirtschaft & Gesellschaft
-kameraden -> Sport & Bewegung
-konfrontiert -> Wirtschaft & Gesellschaft
-konsum -> Essen & Genuss
-künstlerischen -> Kultur & Freizeit
-laute -> Natur & Umwelt
-meilen -> Reisen & Orte
-missbraucht -> Wirtschaft & Gesellschaft
-moschee -> Reisen & Orte
-musical -> Kultur & Freizeit
-männlich -> Körper & Gesundheit
-richtiges -> Körper & Gesundheit
-sanft -> Natur & Umwelt
-schädel -> Natur & Umwelt
-schäfer -> Natur & Umwelt
-sehenswürdigkeiten -> Reisen & Orte
-spanier -> Reisen & Orte
-standpunkt -> Wirtschaft & Gesellschaft
-stellvertreter -> Wirtschaft & Gesellschaft
-sturz -> Sport & Bewegung
-unentschieden -> Sport & Bewegung
-verbrannt -> Natur & Umwelt
-verbände -> Wirtschaft & Gesellschaft
-verhandeln -> Wirtschaft & Gesellschaft
-verteidiger -> Wirtschaft & Gesellschaft
-vollendet -> Kultur & Freizeit
-vorbehalten -> Wirtschaft & Gesellschaft
-warme -> Essen & Genuss
-weisheit -> Wirtschaft & Gesellschaft
-widersprechen -> Wirtschaft & Gesellschaft
-wissenschaftlicher -> Wirtschaft & Gesellschaft
-östlichen -> Reisen & Orte
-überprüfung -> Wirtschaft & Gesellschaft
-aggressiv -> Körper & Gesundheit
-ankündigung -> Wirtschaft & Gesellschaft
-antisemitismus -> Wirtschaft & Gesellschaft
-anwenden -> Technik & Alltag
-anzug -> Sport & Bewegung
-asche -> Natur & Umwelt
-aufgefordert -> Wirtschaft & Gesellschaft
-auftakt -> Kultur & Freizeit
-ausfallen -> Technik & Alltag
-ausgangspunkt -> Reisen & Orte
-bemerkenswert -> Kultur & Freizeit
-berufe -> Wirtschaft & Gesellschaft
-beten -> Essen & Genuss
-betrachtung -> Wirtschaft & Gesellschaft
-bienen -> Natur & Umwelt
-boten -> Natur & Umwelt
-chemische -> Körper & Gesundheit
-christ -> Kultur & Freizeit
-demokraten -> Wirtschaft & Gesellschaft
-dimension -> Wirtschaft & Gesellschaft
-doku -> Kultur & Freizeit
-dörfer -> Reisen & Orte
-eingeleitet -> Wirtschaft & Gesellschaft
-einkauf -> Essen & Genuss
-einsteigen -> Sport & Bewegung
-erfolgreicher -> Wirtschaft & Gesellschaft
-erhaltung -> Wirtschaft & Gesellschaft
-erlebte -> Kultur & Freizeit
-favoriten -> Sport & Bewegung
-food -> Essen & Genuss
-frühzeitig -> Körper & Gesundheit
-geistigen -> Körper & Gesundheit
-geliebten -> Natur & Umwelt
-gewerkschaft -> Wirtschaft & Gesellschaft
-glanz -> Natur & Umwelt
-gottesdienst -> Kultur & Freizeit
-grundlegende -> Wirtschaft & Gesellschaft
-hardware -> Technik & Alltag
-hartmann -> Wirtschaft & Gesellschaft
-hintergründe -> Wirtschaft & Gesellschaft
-insekten -> Natur & Umwelt
-klappen -> Technik & Alltag
-klauen -> Natur & Umwelt
-knopf -> Technik & Alltag
-konservative -> Wirtschaft & Gesellschaft
-kreuzung -> Reisen & Orte
-kriminalität -> Wirtschaft & Gesellschaft
-künstlerische -> Kultur & Freizeit
-lande -> Reisen & Orte
-lebenslauf -> Wirtschaft & Gesellschaft
-meinungsfreiheit -> Wirtschaft & Gesellschaft
-organisierte -> Wirtschaft & Gesellschaft
-phasen -> Sport & Bewegung
-politikern -> Wirtschaft & Gesellschaft
-potenzial -> Wirtschaft & Gesellschaft
-problematisch -> Wirtschaft & Gesellschaft
-professionelle -> Wirtschaft & Gesellschaft
-rapper -> Kultur & Freizeit
-recherche -> Wirtschaft & Gesellschaft
-rechnungen -> Wirtschaft & Gesellschaft
-ringen -> Sport & Bewegung
-seelen -> Körper & Gesundheit
-selbstständig -> Wirtschaft & Gesellschaft
-sendungen -> Wirtschaft & Gesellschaft
-sonnenschein -> Natur & Umwelt
-statement -> Kultur & Freizeit
-sternen -> Natur & Umwelt
-ständigen -> Wirtschaft & Gesellschaft
-theorien -> Wirtschaft & Gesellschaft
-trio -> Kultur & Freizeit
-unterschrift -> Wirtschaft & Gesellschaft
-verdächtigen -> Körper & Gesundheit
-versand -> Technik & Alltag
-voraussichtlich -> Wirtschaft & Gesellschaft
-vornehmen -> Wirtschaft & Gesellschaft
-weiterentwicklung -> Wirtschaft & Gesellschaft
-wunden -> Körper & Gesundheit
-zimmermann -> Wirtschaft & Gesellschaft
-zukünftig -> Wirtschaft & Gesellschaft
-zukünftige -> Wirtschaft & Gesellschaft
-zukünftigen -> Wirtschaft & Gesellschaft
-üblicherweise -> Technik & Alltag
-analysiert -> Wirtschaft & Gesellschaft
-antrieb -> Technik & Alltag
-applaus -> Kultur & Freizeit
-aufträge -> Wirtschaft & Gesellschaft
-ausführen -> Technik & Alltag
-bedeutete -> Wirtschaft & Gesellschaft
-bedürfnis -> Körper & Gesundheit
-befördert -> Wirtschaft & Gesellschaft
-beobachter -> Körper & Gesundheit
-beseitigen -> Körper & Gesundheit
-besetzten -> Reisen & Orte
-dummheit -> Wirtschaft & Gesellschaft
-eingreifen -> Körper & Gesundheit
-einladen -> Essen & Genuss
-einzel -> Sport & Bewegung
-fassade -> Reisen & Orte
-forschungen -> Wirtschaft & Gesellschaft
-fortgesetzt -> Wirtschaft & Gesellschaft
-fusion -> Wirtschaft & Gesellschaft
-futter -> Essen & Genuss
-ganzer -> Kultur & Freizeit
-gereicht -> Essen & Genuss
-grammatik -> Wirtschaft & Gesellschaft
-haltestelle -> Reisen & Orte
-hauen -> Sport & Bewegung
-haustür -> Reisen & Orte
-hinauf -> Natur & Umwelt
-historischer -> Wirtschaft & Gesellschaft
-hubschrauber -> Technik & Alltag
-höhen -> Natur & Umwelt
-innovation -> Wirtschaft & Gesellschaft
-juristische -> Wirtschaft & Gesellschaft
-kehren -> Natur & Umwelt
-kleinsten -> Essen & Genuss
-label -> Kultur & Freizeit
-lampe -> Technik & Alltag
-manchester -> Kultur & Freizeit
-melodie -> Kultur & Freizeit
-Motorrad -> Fahrzeuge & Verkehr
-Roller -> Fahrzeuge & Verkehr
-Lastwagen -> Fahrzeuge & Verkehr
-Segelboot -> Fahrzeuge & Verkehr
-Kanu -> Fahrzeuge & Verkehr
-Kajak -> Fahrzeuge & Verkehr
-Bagger -> Fahrzeuge & Verkehr
-Krankenwagen -> Fahrzeuge & Verkehr
-Feuerwehrauto -> Fahrzeuge & Verkehr
-Wohnmobil -> Fahrzeuge & Verkehr
-Wohnwagen -> Fahrzeuge & Verkehr
-Anhänger -> Fahrzeuge & Verkehr
-Tankstelle -> Fahrzeuge & Verkehr
-Kreisverkehr -> Fahrzeuge & Verkehr
-Landstraße -> Fahrzeuge & Verkehr
-Tunnel -> Fahrzeuge & Verkehr
-Flughafen -> Fahrzeuge & Verkehr
-Reifen -> Fahrzeuge & Verkehr
-Bremse -> Fahrzeuge & Verkehr
-Auspuff -> Fahrzeuge & Verkehr
-Rückspiegel -> Fahrzeuge & Verkehr
-Helm -> Fahrzeuge & Verkehr
-Schaffner -> Fahrzeuge & Verkehr
-U-Bahn -> Fahrzeuge & Verkehr
-Jeans -> Kleidung & Mode
-Rock -> Kleidung & Mode
-Krawatte -> Kleidung & Mode
-Fliege -> Kleidung & Mode
-Strumpf -> Kleidung & Mode
-Sandale -> Kleidung & Mode
-Hausschuh -> Kleidung & Mode
-Kappe -> Kleidung & Mode
-Schal -> Kleidung & Mode
-Handschuh -> Kleidung & Mode
-Rucksack -> Kleidung & Mode
-Bademantel -> Kleidung & Mode
-Badeanzug -> Kleidung & Mode
-Strickjacke -> Kleidung & Mode
-Kapuzenpullover -> Kleidung & Mode
-Trikot -> Kleidung & Mode
-Kostüm -> Kleidung & Mode
-Uniform -> Kleidung & Mode
-Schürze -> Kleidung & Mode
-Knopf -> Kleidung & Mode
-Reißverschluss -> Kleidung & Mode
-Hochhaus -> Gebäude & Orte
-Schloss -> Gebäude & Orte
-Burg -> Gebäude & Orte
-Palast -> Gebäude & Orte
-Kirche -> Gebäude & Orte
-Dom -> Gebäude & Orte
-Kloster -> Gebäude & Orte
-Schule -> Gebäude & Orte
-Universität -> Gebäude & Orte
-Kindergarten -> Gebäude & Orte
-Stadion -> Gebäude & Orte
-Schwimmbad -> Gebäude & Orte
-Turnhalle -> Gebäude & Orte
-Supermarkt -> Gebäude & Orte
-Bäckerei -> Gebäude & Orte
-Metzgerei -> Gebäude & Orte
-Apotheke -> Gebäude & Orte
-Post -> Gebäude & Orte
-Café -> Gebäude & Orte
-Lagerhalle -> Gebäude & Orte
-Bauernhof -> Gebäude & Orte
-Scheune -> Gebäude & Orte
-Gewächshaus -> Gebäude & Orte
-Leuchtturm -> Gebäude & Orte
-Windmühle -> Gebäude & Orte
-Brunnen -> Gebäude & Orte
-Park -> Gebäude & Orte
-Friedhof -> Gebäude & Orte
-Zirkus -> Gebäude & Orte
-Rathausplatz -> Gebäude & Orte
-Wolkenkratzer -> Gebäude & Orte
-Hütte -> Gebäude & Orte
-Villa -> Gebäude & Orte
-Tisch -> Haushalt & Alltag
-Sessel -> Haushalt & Alltag
-Sofa -> Haushalt & Alltag
-Kommode -> Haushalt & Alltag
-Spiegel -> Haushalt & Alltag
-Teppich -> Haushalt & Alltag
-Decke -> Haushalt & Alltag
-Matratze -> Haushalt & Alltag
-Teller -> Haushalt & Alltag
-Pfanne -> Haushalt & Alltag
-Messer -> Haushalt & Alltag
-Gabel -> Haushalt & Alltag
-Löffel -> Haushalt & Alltag
-Schneidebrett -> Haushalt & Alltag
-Wasserkocher -> Haushalt & Alltag
-Toaster -> Haushalt & Alltag
-Herd -> Haushalt & Alltag
-Backofen -> Haushalt & Alltag
-Mikrowelle -> Haushalt & Alltag
-Trockner -> Haushalt & Alltag
-Staubsauger -> Haushalt & Alltag
-Eimer -> Haushalt & Alltag
-Putzlappen -> Haushalt & Alltag
-Schwamm -> Haushalt & Alltag
-Seife -> Haushalt & Alltag
-Handtuch -> Haushalt & Alltag
-Zahnpasta -> Haushalt & Alltag
-Kamm -> Haushalt & Alltag
-Bürste -> Haushalt & Alltag
-Föhn -> Haushalt & Alltag
-Klavier -> Musik & Filme
-Geige -> Musik & Filme
-Flöte -> Musik & Filme
-Trompete -> Musik & Filme
-Harfe -> Musik & Filme
-Akkordeon -> Musik & Filme
-Lautsprecher -> Musik & Filme
-Kassette -> Musik & Filme
-Orchester -> Musik & Filme
-Oper -> Musik & Filme
-Sänger -> Musik & Filme
-Musiker -> Musik & Filme
-Schauspieler -> Musik & Filme
-Kamera -> Musik & Filme
-Filmkamera -> Musik & Filme
-Dokumentarfilm -> Musik & Filme
-Thriller -> Musik & Filme
-Zeichentrickfilm -> Musik & Filme
-Serie -> Musik & Filme
-Staffel -> Musik & Filme
-Episode -> Musik & Filme
-Trailer -> Musik & Filme
-Popcorn -> Musik & Filme
-Kinokarte -> Musik & Filme
-Oscar -> Musik & Filme
-Maskenbildner -> Musik & Filme
-Stuntman -> Musik & Filme
-Schwein -> Tiere
-Huhn -> Tiere
-Ente -> Tiere
-Gans -> Tiere
-Löwe -> Tiere
-Tiger -> Tiere
-Leopard -> Tiere
-Gepard -> Tiere
-Bär -> Tiere
-Wolf -> Tiere
-Fuchs -> Tiere
-Kaninchen -> Tiere
-Igel -> Tiere
-Eichhörnchen -> Tiere
-Reh -> Tiere
-Hirsch -> Tiere
-Wildschwein -> Tiere
-Dachs -> Tiere
-Biber -> Tiere
-Otter -> Tiere
-Wal -> Tiere
-Delfin -> Tiere
-Krake -> Tiere
-Schildkröte -> Tiere
-Krokodil -> Tiere
-Pinguin -> Tiere
-Flamingo -> Tiere
-Papagei -> Tiere
-Schwan -> Tiere
-Storch -> Tiere
-Schmetterling -> Tiere
-Biene -> Tiere
-Marienkäfer -> Tiere
-Sonne -> Natur & Wetter
-Mond -> Natur & Wetter
-Regen -> Natur & Wetter
-Hagel -> Natur & Wetter
-Blitz -> Natur & Wetter
-Donner -> Natur & Wetter
-Regenbogen -> Natur & Wetter
-Frost -> Natur & Wetter
-Eis -> Natur & Wetter
-Tau -> Natur & Wetter
-Gras -> Natur & Wetter
-Strauch -> Natur & Wetter
-Wiese -> Natur & Wetter
-Feld -> Natur & Wetter
-Berg -> Natur & Wetter
-Tal -> Natur & Wetter
-Felsen -> Natur & Wetter
-Höhle -> Natur & Wetter
-Vulkan -> Natur & Wetter
-Fluss -> Natur & Wetter
-Bach -> Natur & Wetter
-Wüste -> Natur & Wetter
-Dschungel -> Natur & Wetter
-Sumpf -> Natur & Wetter
-Erdbeben -> Natur & Wetter
-Sonnenuntergang -> Natur & Wetter
-Handball -> Sport & Hobby
-Basketball -> Sport & Hobby
-Volleyball -> Sport & Hobby
-Tischtennis -> Sport & Hobby
-Golf -> Sport & Hobby
-Eishockey -> Sport & Hobby
-Boxen -> Sport & Hobby
-Judo -> Sport & Hobby
-Karate -> Sport & Hobby
-Turnen -> Sport & Hobby
-Marathon -> Sport & Hobby
-Schwimmen -> Sport & Hobby
-Tauchen -> Sport & Hobby
-Surfen -> Sport & Hobby
-Segeln -> Sport & Hobby
-Rudern -> Sport & Hobby
-Skifahren -> Sport & Hobby
-Snowboard -> Sport & Hobby
-Reiten -> Sport & Hobby
-Fechten -> Sport & Hobby
-Bogenschießen -> Sport & Hobby
-Schach -> Sport & Hobby
-Brettspiel -> Sport & Hobby
-Kartenspiel -> Sport & Hobby
-Puzzle -> Sport & Hobby
-Zeichnung -> Sport & Hobby
-Fotografie -> Sport & Hobby
-Töpfern -> Sport & Hobby
-Stricken -> Sport & Hobby
-Nähen -> Sport & Hobby
-Gartenarbeit -> Sport & Hobby
-Angeln -> Sport & Hobby
-Camping -> Sport & Hobby
-Wandern -> Sport & Hobby
-Klettern -> Sport & Hobby
-Yoga -> Sport & Hobby
-Fitnessstudio -> Sport & Hobby
-Hantel -> Sport & Hobby
-Medaille -> Sport & Hobby
-Pokal -> Sport & Hobby
-Meisterschaft -> Sport & Hobby
-Schiedsrichter -> Sport & Hobby
-Trainer -> Sport & Hobby
-Mannschaft -> Sport & Hobby
-Weltrekord -> Sport & Hobby
-Apfel -> Essen & Trinken
-Birne -> Essen & Trinken
-Banane -> Essen & Trinken
-Erdbeere -> Essen & Trinken
-Orange -> Essen & Trinken
-Zitrone -> Essen & Trinken
-Traube -> Essen & Trinken
-Ananas -> Essen & Trinken
-Melone -> Essen & Trinken
-Pfirsich -> Essen & Trinken
-Pflaume -> Essen & Trinken
-Himbeere -> Essen & Trinken
-Blaubeere -> Essen & Trinken
-Kiwi -> Essen & Trinken
-Kartoffel -> Essen & Trinken
-Tomate -> Essen & Trinken
-Gurke -> Essen & Trinken
-Karotte -> Essen & Trinken
-Zwiebel -> Essen & Trinken
-Knoblauch -> Essen & Trinken
-Paprika -> Essen & Trinken
-Salat -> Essen & Trinken
-Brokkoli -> Essen & Trinken
-Spinat -> Essen & Trinken
-Pilz -> Essen & Trinken
-Mais -> Essen & Trinken
-Erbse -> Essen & Trinken
-Bohne -> Essen & Trinken
-Brötchen -> Essen & Trinken
-Kuchen -> Essen & Trinken
-Torte -> Essen & Trinken
-Keks -> Essen & Trinken
-Schokolade -> Essen & Trinken
-Marmelade -> Essen & Trinken
-Butter -> Essen & Trinken
-Milch -> Essen & Trinken
-Joghurt -> Essen & Trinken
-Quark -> Essen & Trinken
-Sahne -> Essen & Trinken
-Nudel -> Essen & Trinken
-Reis -> Essen & Trinken
-Tee -> Essen & Trinken
-Limonade -> Essen & Trinken
-Apotheker -> Berufe
-Krankenpfleger -> Berufe
-Polizist -> Berufe
-Feuerwehrmann -> Berufe
-Richter -> Berufe
-Anwalt -> Berufe
-Erzieher -> Berufe
-Metzger -> Berufe
-Koch -> Berufe
-Kellner -> Berufe
-Schneider -> Berufe
-Zimmermann -> Berufe
-Maurer -> Berufe
-Klempner -> Berufe
-Dachdecker -> Berufe
-Grafiker -> Berufe
-Bibliothekar -> Berufe
-Buchhalter -> Berufe
-Verkäufer -> Berufe
-Kassierer -> Berufe
-Briefträger -> Berufe
-Busfahrer -> Berufe
-Lokführer -> Berufe
-Landwirt -> Berufe
-Förster -> Berufe
-Fischer -> Berufe
-Goldschmied -> Berufe
-Optiker -> Berufe
-Dolmetscher -> Berufe
-Tablet -> Technik & Gaming
-Smartphone -> Technik & Gaming
-Drucker -> Technik & Gaming
-Scanner -> Technik & Gaming
-Festplatte -> Technik & Gaming
-Speicherstick -> Technik & Gaming
-Prozessor -> Technik & Gaming
-Grafikkarte -> Technik & Gaming
-Router -> Technik & Gaming
-Internet -> Technik & Gaming
-Netzwerk -> Technik & Gaming
-Server -> Technik & Gaming
-Software -> Technik & Gaming
-Algorithmus -> Technik & Gaming
-Datenbank -> Technik & Gaming
-Roboter -> Technik & Gaming
-Drohne -> Technik & Gaming
-Batterie -> Technik & Gaming
-Ladegerät -> Technik & Gaming
-Steckdose -> Technik & Gaming
-Sensor -> Technik & Gaming
-Laser -> Technik & Gaming
-Spielkonsole -> Technik & Gaming
-Joystick -> Technik & Gaming
-Computerspiel -> Technik & Gaming
-Level -> Technik & Gaming
-Avatar -> Technik & Gaming
-Endgegner -> Technik & Gaming
-Spielstand -> Technik & Gaming
-Multiplayer -> Technik & Gaming
-Livestream -> Technik & Gaming
-Webcam -> Technik & Gaming
-Touchscreen -> Technik & Gaming
-Betriebssystem -> Technik & Gaming
-Sauerstoff -> Wissenschaft
-Wasserstoff -> Wissenschaft
-Kohlenstoff -> Wissenschaft
-Gold -> Wissenschaft
-Silber -> Wissenschaft
-Eisen -> Wissenschaft
-Kupfer -> Wissenschaft
-Schwerkraft -> Wissenschaft
-Lichtgeschwindigkeit -> Wissenschaft
-Elektrizität -> Wissenschaft
-Strahlung -> Wissenschaft
-Prisma -> Wissenschaft
-Mikroskop -> Wissenschaft
-Labor -> Wissenschaft
-Hypothese -> Wissenschaft
-Theorie -> Wissenschaft
-Formel -> Wissenschaft
-Gleichung -> Wissenschaft
-Dreieck -> Wissenschaft
-Kreis -> Wissenschaft
-Zylinder -> Wissenschaft
-Zelle -> Wissenschaft
-Bakterium -> Wissenschaft
-Virus -> Wissenschaft
-Genetik -> Wissenschaft
-Fossil -> Wissenschaft
-Dinosaurier -> Wissenschaft
-Planet -> Wissenschaft
-Galaxie -> Wissenschaft
-Komet -> Wissenschaft
-Asteroid -> Wissenschaft
-Mondfinsternis -> Wissenschaft
-Erdkern -> Wissenschaft
-Kontinent -> Wissenschaft
+0001: Hund (Tiere)
+0002: Katze (Tiere)
+0003: Pferd (Tiere)
+0004: Kuh (Tiere)
+0005: Schwein (Tiere)
+0006: Schaf (Tiere)
+0007: Ziege (Tiere)
+0008: Huhn (Tiere)
+0009: Hahn (Tiere)
+0010: Küken (Tiere)
+0011: Ente (Tiere)
+0012: Gans (Tiere)
+0013: Truthahn (Tiere)
+0014: Esel (Tiere)
+0015: Maultier (Tiere)
+0016: Kaninchen (Tiere)
+0017: Hase (Tiere)
+0018: Maus (Tiere)
+0019: Ratte (Tiere)
+0020: Hamster (Tiere)
+0021: Meerschweinchen (Tiere)
+0022: Chinchilla (Tiere)
+0023: Frettchen (Tiere)
+0024: Goldfisch (Tiere)
+0025: Wellensittich (Tiere)
+0026: Papagei (Tiere)
+0027: Kanarienvogel (Tiere)
+0028: Taube (Tiere)
+0029: Spatz (Tiere)
+0030: Amsel (Tiere)
+0031: Drossel (Tiere)
+0032: Fink (Tiere)
+0033: Star (Tiere)
+0034: Rotkehlchen (Tiere)
+0035: Meise (Tiere)
+0036: Kohlmeise (Tiere)
+0037: Blaumeise (Tiere)
+0038: Kleiber (Tiere)
+0039: Specht (Tiere)
+0040: Buntspecht (Tiere)
+0041: Kuckuck (Tiere)
+0042: Eule (Tiere)
+0043: Uhu (Tiere)
+0044: Kauz (Tiere)
+0045: Schleiereule (Tiere)
+0046: Falke (Tiere)
+0047: Turmfalke (Tiere)
+0048: Wanderfalke (Tiere)
+0049: Adler (Tiere)
+0050: Steinadler (Tiere)
+0051: Seeadler (Tiere)
+0052: Bussard (Tiere)
+0053: Mäusebussard (Tiere)
+0054: Habicht (Tiere)
+0055: Sperber (Tiere)
+0056: Milan (Tiere)
+0057: Geier (Tiere)
+0058: Storch (Tiere)
+0059: Reiher (Tiere)
+0060: Graureiher (Tiere)
+0061: Kranich (Tiere)
+0062: Schwan (Tiere)
+0063: Höckerschwan (Tiere)
+0064: Möwe (Tiere)
+0065: Silbermöwe (Tiere)
+0066: Lachmöwe (Tiere)
+0067: Albatros (Tiere)
+0068: Pelikan (Tiere)
+0069: Flamingo (Tiere)
+0070: Pinguin (Tiere)
+0072: Strauß (Tiere)
+0073: Emu (Tiere)
+0074: Kiwi (Tiere)
+0075: Pfau (Tiere)
+0076: Fasan (Tiere)
+0077: Rebhuhn (Tiere)
+0078: Wachtel (Tiere)
+0079: Rabe (Tiere)
+0080: Krähe (Tiere)
+0081: Elster (Tiere)
+0082: Eichelhäher (Tiere)
+0083: Dohle (Tiere)
+0084: Schwalbe (Tiere)
+0085: Rauchschwalbe (Tiere)
+0086: Mehlschwalbe (Tiere)
+0087: Mauersegler (Tiere)
+0088: Nachtigall (Tiere)
+0089: Lerche (Tiere)
+0090: Feldlerche (Tiere)
+0091: Eisvogel (Tiere)
+0092: Wiedehopf (Tiere)
+0093: Kolibri (Tiere)
+0094: Tukan (Tiere)
+0095: Kakadu (Tiere)
+0096: Sittich (Tiere)
+0097: Löwe (Tiere)
+0098: Tiger (Tiere)
+0099: Leopard (Tiere)
+0100: Jaguar (Tiere)
+0101: Gepard (Tiere)
+0102: Puma (Tiere)
+0103: Luchs (Tiere)
+0104: Panther (Tiere)
+0105: Schneeleopard (Tiere)
+0106: Ozelot (Tiere)
+0107: Wildkatze (Tiere)
+0108: Bär (Tiere)
+0109: Braunbär (Tiere)
+0110: Eisbär (Tiere)
+0111: Schwarzbär (Tiere)
+0112: Panda (Tiere)
+0113: Koala (Tiere)
+0114: Känguru (Tiere)
+0115: Wombat (Tiere)
+0116: Opossum (Tiere)
+0117: Wolf (Tiere)
+0118: Fuchs (Tiere)
+0119: Rotfuchs (Tiere)
+0120: Polarfuchs (Tiere)
+0121: Kojote (Tiere)
+0122: Schakal (Tiere)
+0123: Dingo (Tiere)
+0124: Hyäne (Tiere)
+0125: Dachs (Tiere)
+0126: Marder (Tiere)
+0127: Steinmarder (Tiere)
+0128: Baummarder (Tiere)
+0129: Wiesel (Tiere)
+0130: Hermelin (Tiere)
+0131: Iltis (Tiere)
+0132: Otter (Tiere)
+0133: Fischotter (Tiere)
+0134: Seeotter (Tiere)
+0135: Biber (Tiere)
+0136: Bisamratte (Tiere)
+0137: Nutria (Tiere)
+0138: Eichhörnchen (Tiere)
+0139: Murmeltier (Tiere)
+0140: Siebenschläfer (Tiere)
+0141: Stachelschwein (Tiere)
+0142: Igel (Tiere)
+0143: Maulwurf (Tiere)
+0144: Spitzmaus (Tiere)
+0145: Fledermaus (Tiere)
+0147: Affe (Tiere)
+0148: Schimpanse (Tiere)
+0149: Gorilla (Tiere)
+0150: Orang-Utan (Tiere)
+0151: Pavian (Tiere)
+0153: Lemur (Tiere)
+0154: Faultier (Tiere)
+0155: Ameisenbär (Tiere)
+0156: Gürteltier (Tiere)
+0157: Elefant (Tiere)
+0158: Nashorn (Tiere)
+0159: Flusspferd (Tiere)
+0160: Giraffe (Tiere)
+0161: Zebra (Tiere)
+0162: Antilope (Tiere)
+0163: Gazelle (Tiere)
+0164: Gnu (Tiere)
+0165: Büffel (Tiere)
+0166: Bison (Tiere)
+0167: Yak (Tiere)
+0168: Kamel (Tiere)
+0169: Dromedar (Tiere)
+0170: Lama (Tiere)
+0171: Alpaka (Tiere)
+0172: Hirsch (Tiere)
+0173: Rothirsch (Tiere)
+0174: Damhirsch (Tiere)
+0175: Reh (Tiere)
+0176: Elch (Tiere)
+0177: Rentier (Tiere)
+0178: Wildschwein (Tiere)
+0179: Warzenschwein (Tiere)
+0180: Tapir (Tiere)
+0181: Okapi (Tiere)
+0182: Erdmännchen (Tiere)
+0184: Waschbär (Tiere)
+0185: Nasenbär (Tiere)
+0186: Robbe (Tiere)
+0187: Seehund (Tiere)
+0188: Seelöwe (Tiere)
+0189: Walross (Tiere)
+0190: Seekuh (Tiere)
+0191: Wal (Tiere)
+0192: Blauwal (Tiere)
+0193: Buckelwal (Tiere)
+0194: Pottwal (Tiere)
+0195: Orca (Tiere)
+0196: Delfin (Tiere)
+0197: Schweinswal (Tiere)
+0199: Beluga (Tiere)
+0200: Hai (Tiere)
+0201: Apfel (Essen & Trinken)
+0202: Birne (Essen & Trinken)
+0203: Banane (Essen & Trinken)
+0204: Orange (Essen & Trinken)
+0205: Mandarine (Essen & Trinken)
+0206: Zitrone (Essen & Trinken)
+0207: Limette (Essen & Trinken)
+0208: Grapefruit (Essen & Trinken)
+0209: Pfirsich (Essen & Trinken)
+0210: Nektarine (Essen & Trinken)
+0211: Aprikose (Essen & Trinken)
+0212: Pflaume (Essen & Trinken)
+0213: Zwetschge (Essen & Trinken)
+0214: Kirsche (Essen & Trinken)
+0215: Erdbeere (Essen & Trinken)
+0216: Himbeere (Essen & Trinken)
+0217: Brombeere (Essen & Trinken)
+0218: Heidelbeere (Essen & Trinken)
+0219: Johannisbeere (Essen & Trinken)
+0220: Stachelbeere (Essen & Trinken)
+0221: Preiselbeere (Essen & Trinken)
+0222: Cranberry (Essen & Trinken)
+0223: Weintraube (Essen & Trinken)
+0224: Rosine (Essen & Trinken)
+0225: Melone (Essen & Trinken)
+0226: Wassermelone (Essen & Trinken)
+0227: Honigmelone (Essen & Trinken)
+0228: Ananas (Essen & Trinken)
+0229: Mango (Essen & Trinken)
+0230: Papaya (Essen & Trinken)
+0231: Maracuja (Essen & Trinken)
+0232: Granatapfel (Essen & Trinken)
+0233: Feige (Essen & Trinken)
+0234: Dattel (Essen & Trinken)
+0235: Kokosnuss (Essen & Trinken)
+0236: Avocado (Essen & Trinken)
+0237: Tomate (Essen & Trinken)
+0238: Gurke (Essen & Trinken)
+0239: Paprika (Essen & Trinken)
+0240: Zucchini (Essen & Trinken)
+0241: Aubergine (Essen & Trinken)
+0242: Kürbis (Essen & Trinken)
+0243: Karotte (Essen & Trinken)
+0244: Möhre (Essen & Trinken)
+0245: Kartoffel (Essen & Trinken)
+0246: Süßkartoffel (Essen & Trinken)
+0247: Zwiebel (Essen & Trinken)
+0248: Knoblauch (Essen & Trinken)
+0249: Lauch (Essen & Trinken)
+0250: Porree (Essen & Trinken)
+0251: Sellerie (Essen & Trinken)
+0252: Radieschen (Essen & Trinken)
+0253: Rettich (Essen & Trinken)
+0254: Rote Bete (Essen & Trinken)
+0255: Kohlrabi (Essen & Trinken)
+0256: Blumenkohl (Essen & Trinken)
+0257: Brokkoli (Essen & Trinken)
+0258: Weißkohl (Essen & Trinken)
+0259: Rotkohl (Essen & Trinken)
+0260: Wirsing (Essen & Trinken)
+0261: Rosenkohl (Essen & Trinken)
+0262: Grünkohl (Essen & Trinken)
+0263: Spinat (Essen & Trinken)
+0264: Mangold (Essen & Trinken)
+0265: Salat (Essen & Trinken)
+0266: Kopfsalat (Essen & Trinken)
+0267: Eisbergsalat (Essen & Trinken)
+0268: Feldsalat (Essen & Trinken)
+0269: Rucola (Essen & Trinken)
+0270: Spargel (Essen & Trinken)
+0271: Mais (Essen & Trinken)
+0272: Erbse (Essen & Trinken)
+0273: Bohne (Essen & Trinken)
+0274: Linse (Essen & Trinken)
+0275: Kichererbse (Essen & Trinken)
+0276: Pilz (Essen & Trinken)
+0277: Champignon (Essen & Trinken)
+0278: Pfifferling (Essen & Trinken)
+0279: Steinpilz (Essen & Trinken)
+0280: Trüffel (Essen & Trinken)
+0281: Brot (Essen & Trinken)
+0282: Brötchen (Essen & Trinken)
+0283: Toast (Essen & Trinken)
+0284: Baguette (Essen & Trinken)
+0285: Croissant (Essen & Trinken)
+0286: Brezel (Essen & Trinken)
+0288: Zwieback (Essen & Trinken)
+0289: Knäckebrot (Essen & Trinken)
+0290: Pumpernickel (Essen & Trinken)
+0291: Kuchen (Essen & Trinken)
+0292: Torte (Essen & Trinken)
+0293: Muffin (Essen & Trinken)
+0294: Donut (Essen & Trinken)
+0295: Berliner (Essen & Trinken)
+0296: Krapfen (Essen & Trinken)
+0297: Waffel (Essen & Trinken)
+0298: Pfannkuchen (Essen & Trinken)
+0299: Eierkuchen (Essen & Trinken)
+0300: Keks (Essen & Trinken)
+0301: Plätzchen (Essen & Trinken)
+0302: Lebkuchen (Essen & Trinken)
+0303: Stollen (Essen & Trinken)
+0304: Strudel (Essen & Trinken)
+0305: Apfelstrudel (Essen & Trinken)
+0306: Käsekuchen (Essen & Trinken)
+0307: Schokoladenkuchen (Essen & Trinken)
+0308: Obstkuchen (Essen & Trinken)
+0309: Pudding (Essen & Trinken)
+0310: Grießbrei (Essen & Trinken)
+0311: Milchreis (Essen & Trinken)
+0312: Joghurt (Essen & Trinken)
+0313: Quark (Essen & Trinken)
+0314: Sahne (Essen & Trinken)
+0315: Schlagsahne (Essen & Trinken)
+0316: Butter (Essen & Trinken)
+0317: Margarine (Essen & Trinken)
+0318: Käse (Essen & Trinken)
+0319: Frischkäse (Essen & Trinken)
+0320: Hüttenkäse (Essen & Trinken)
+0321: Mozzarella (Essen & Trinken)
+0322: Gouda (Essen & Trinken)
+0323: Emmentaler (Essen & Trinken)
+0324: Camembert (Essen & Trinken)
+0325: Parmesan (Essen & Trinken)
+0326: Feta (Essen & Trinken)
+0327: Milch (Essen & Trinken)
+0328: Buttermilch (Essen & Trinken)
+0329: Kakao (Essen & Trinken)
+0330: Ei (Essen & Trinken)
+0331: Spiegelei (Essen & Trinken)
+0332: Rührei (Essen & Trinken)
+0333: Omelett (Essen & Trinken)
+0334: Nudel (Essen & Trinken)
+0335: Spaghetti (Essen & Trinken)
+0336: Makkaroni (Essen & Trinken)
+0337: Lasagne (Essen & Trinken)
+0338: Ravioli (Essen & Trinken)
+0339: Tortellini (Essen & Trinken)
+0340: Spätzle (Essen & Trinken)
+0341: Reis (Essen & Trinken)
+0342: Risotto (Essen & Trinken)
+0343: Couscous (Essen & Trinken)
+0344: Bulgur (Essen & Trinken)
+0346: Müsli (Essen & Trinken)
+0347: Cornflakes (Essen & Trinken)
+0348: Mehl (Essen & Trinken)
+0349: Zucker (Essen & Trinken)
+0350: Salz (Essen & Trinken)
+0351: Pfeffer (Essen & Trinken)
+0352: Zimt (Essen & Trinken)
+0353: Vanille (Essen & Trinken)
+0354: Honig (Essen & Trinken)
+0355: Marmelade (Essen & Trinken)
+0356: Konfitüre (Essen & Trinken)
+0357: Nuss (Essen & Trinken)
+0358: Walnuss (Essen & Trinken)
+0359: Haselnuss (Essen & Trinken)
+0360: Erdnuss (Essen & Trinken)
+0361: Mandel (Essen & Trinken)
+0362: Cashew (Essen & Trinken)
+0363: Pistazie (Essen & Trinken)
+0364: Maronen (Essen & Trinken)
+0366: Kürbiskern (Essen & Trinken)
+0367: Sesam (Essen & Trinken)
+0368: Olivenöl (Essen & Trinken)
+0369: Essig (Essen & Trinken)
+0370: Senf (Essen & Trinken)
+0371: Ketchup (Essen & Trinken)
+0372: Mayonnaise (Essen & Trinken)
+0373: Soße (Essen & Trinken)
+0374: Tomatensoße (Essen & Trinken)
+0375: Suppe (Essen & Trinken)
+0376: Gemüsesuppe (Essen & Trinken)
+0377: Hühnersuppe (Essen & Trinken)
+0378: Kartoffelsuppe (Essen & Trinken)
+0379: Eintopf (Essen & Trinken)
+0380: Pizza (Essen & Trinken)
+0381: Burger (Essen & Trinken)
+0382: Sandwich (Essen & Trinken)
+0383: Pommes (Essen & Trinken)
+0384: Bratwurst (Essen & Trinken)
+0385: Currywurst (Essen & Trinken)
+0386: Schnitzel (Essen & Trinken)
+0387: Frikadelle (Essen & Trinken)
+0388: Gulasch (Essen & Trinken)
+0389: Braten (Essen & Trinken)
+0390: Steak (Essen & Trinken)
+0391: Schinken (Essen & Trinken)
+0392: Salami (Essen & Trinken)
+0393: Speck (Essen & Trinken)
+0394: Lachs (Essen & Trinken)
+0395: Thunfisch (Essen & Trinken)
+0396: Forelle (Essen & Trinken)
+0397: Garnele (Essen & Trinken)
+0398: Wasser (Essen & Trinken)
+0399: Saft (Essen & Trinken)
+0400: Apfelsaft (Essen & Trinken)
+0401: Baum (Natur & Wetter)
+0402: Strauch (Natur & Wetter)
+0403: Busch (Natur & Wetter)
+0404: Blume (Natur & Wetter)
+0405: Pflanze (Natur & Wetter)
+0406: Gras (Natur & Wetter)
+0407: Wiese (Natur & Wetter)
+0408: Rasen (Natur & Wetter)
+0409: Moos (Natur & Wetter)
+0410: Farn (Natur & Wetter)
+0411: Alge (Natur & Wetter)
+0412: Schilf (Natur & Wetter)
+0413: Bambus (Natur & Wetter)
+0414: Kaktus (Natur & Wetter)
+0415: Palme (Natur & Wetter)
+0416: Nadelbaum (Natur & Wetter)
+0417: Laubbaum (Natur & Wetter)
+0418: Eiche (Natur & Wetter)
+0419: Buche (Natur & Wetter)
+0420: Birke (Natur & Wetter)
+0421: Tanne (Natur & Wetter)
+0422: Fichte (Natur & Wetter)
+0423: Kiefer (Natur & Wetter)
+0424: Lärche (Natur & Wetter)
+0425: Ahorn (Natur & Wetter)
+0426: Kastanie (Natur & Wetter)
+0427: Linde (Natur & Wetter)
+0428: Weide (Natur & Wetter)
+0429: Trauerweide (Natur & Wetter)
+0430: Pappel (Natur & Wetter)
+0431: Erle (Natur & Wetter)
+0432: Esche (Natur & Wetter)
+0433: Ulme (Natur & Wetter)
+0435: Holunder (Natur & Wetter)
+0436: Rose (Natur & Wetter)
+0437: Tulpe (Natur & Wetter)
+0438: Narzisse (Natur & Wetter)
+0439: Osterglocke (Natur & Wetter)
+0440: Sonnenblume (Natur & Wetter)
+0441: Gänseblümchen (Natur & Wetter)
+0442: Löwenzahn (Natur & Wetter)
+0443: Mohnblume (Natur & Wetter)
+0444: Kornblume (Natur & Wetter)
+0445: Veilchen (Natur & Wetter)
+0446: Maiglöckchen (Natur & Wetter)
+0447: Schneeglöckchen (Natur & Wetter)
+0448: Krokus (Natur & Wetter)
+0449: Hyazinthe (Natur & Wetter)
+0450: Lilie (Natur & Wetter)
+0451: Orchidee (Natur & Wetter)
+0452: Nelke (Natur & Wetter)
+0453: Geranie (Natur & Wetter)
+0454: Hortensie (Natur & Wetter)
+0455: Lavendel (Natur & Wetter)
+0456: Distel (Natur & Wetter)
+0457: Brennnessel (Natur & Wetter)
+0458: Klee (Natur & Wetter)
+0459: Efeu (Natur & Wetter)
+0460: Seerose (Natur & Wetter)
+0461: Blatt (Natur & Wetter)
+0462: Blüte (Natur & Wetter)
+0463: Knospe (Natur & Wetter)
+0464: Stiel (Natur & Wetter)
+0465: Stängel (Natur & Wetter)
+0466: Zweig (Natur & Wetter)
+0467: Ast (Natur & Wetter)
+0468: Stamm (Natur & Wetter)
+0469: Baumstamm (Natur & Wetter)
+0470: Rinde (Natur & Wetter)
+0471: Wurzel (Natur & Wetter)
+0472: Krone (Natur & Wetter)
+0473: Baumkrone (Natur & Wetter)
+0474: Tannenzapfen (Natur & Wetter)
+0475: Eichel (Natur & Wetter)
+0476: Nadel (Natur & Wetter)
+0477: Dorn (Natur & Wetter)
+0478: Stachel (Natur & Wetter)
+0479: Pollen (Natur & Wetter)
+0480: Samen (Natur & Wetter)
+0481: Wald (Natur & Wetter)
+0482: Regenwald (Natur & Wetter)
+0483: Urwald (Natur & Wetter)
+0484: Nadelwald (Natur & Wetter)
+0485: Laubwald (Natur & Wetter)
+0486: Lichtung (Natur & Wetter)
+0487: Dickicht (Natur & Wetter)
+0488: Heide (Natur & Wetter)
+0489: Moor (Natur & Wetter)
+0490: Sumpf (Natur & Wetter)
+0491: Steppe (Natur & Wetter)
+0492: Savanne (Natur & Wetter)
+0493: Wüste (Natur & Wetter)
+0494: Oase (Natur & Wetter)
+0495: Düne (Natur & Wetter)
+0496: Sanddüne (Natur & Wetter)
+0497: Berg (Natur & Wetter)
+0498: Gebirge (Natur & Wetter)
+0499: Hügel (Natur & Wetter)
+0500: Gipfel (Natur & Wetter)
+0501: Berggipfel (Natur & Wetter)
+0502: Fels (Natur & Wetter)
+0503: Felsen (Natur & Wetter)
+0504: Stein (Natur & Wetter)
+0505: Kiesel (Natur & Wetter)
+0506: Kieselstein (Natur & Wetter)
+0507: Findling (Natur & Wetter)
+0508: Höhle (Natur & Wetter)
+0509: Tropfsteinhöhle (Natur & Wetter)
+0510: Schlucht (Natur & Wetter)
+0511: Tal (Natur & Wetter)
+0512: Kliff (Natur & Wetter)
+0513: Klippe (Natur & Wetter)
+0514: Abhang (Natur & Wetter)
+0515: Krater (Natur & Wetter)
+0516: Vulkan (Natur & Wetter)
+0517: Gletscher (Natur & Wetter)
+0518: Lawine (Natur & Wetter)
+0519: Erdrutsch (Natur & Wetter)
+0520: Erdbeben (Natur & Wetter)
+0521: Meer (Natur & Wetter)
+0522: Ozean (Natur & Wetter)
+0523: See (Natur & Wetter)
+0524: Teich (Natur & Wetter)
+0525: Tümpel (Natur & Wetter)
+0526: Fluss (Natur & Wetter)
+0527: Bach (Natur & Wetter)
+0528: Strom (Natur & Wetter)
+0529: Kanal (Natur & Wetter)
+0530: Wasserfall (Natur & Wetter)
+0531: Quelle (Natur & Wetter)
+0532: Mündung (Natur & Wetter)
+0533: Ufer (Natur & Wetter)
+0534: Flussufer (Natur & Wetter)
+0535: Strand (Natur & Wetter)
+0536: Sandstrand (Natur & Wetter)
+0537: Küste (Natur & Wetter)
+0538: Bucht (Natur & Wetter)
+0539: Halbinsel (Natur & Wetter)
+0540: Insel (Natur & Wetter)
+0541: Riff (Natur & Wetter)
+0542: Korallenriff (Natur & Wetter)
+0543: Welle (Natur & Wetter)
+0544: Flut (Natur & Wetter)
+0545: Ebbe (Natur & Wetter)
+0546: Gezeiten (Natur & Wetter)
+0547: Strömung (Natur & Wetter)
+0548: Strudel (Natur & Wetter)
+0549: Pfütze (Natur & Wetter)
+0550: Eisberg (Natur & Wetter)
+0551: Eisscholle (Natur & Wetter)
+0552: Sonne (Natur & Wetter)
+0553: Mond (Natur & Wetter)
+0554: Vollmond (Natur & Wetter)
+0555: Halbmond (Natur & Wetter)
+0556: Neumond (Natur & Wetter)
+0557: Stern (Natur & Wetter)
+0558: Sternschnuppe (Natur & Wetter)
+0559: Planet (Natur & Wetter)
+0560: Erde (Natur & Wetter)
+0561: Himmel (Natur & Wetter)
+0562: Horizont (Natur & Wetter)
+0563: Wolke (Natur & Wetter)
+0564: Gewitterwolke (Natur & Wetter)
+0565: Regenwolke (Natur & Wetter)
+0566: Nebel (Natur & Wetter)
+0567: Dunst (Natur & Wetter)
+0568: Tau (Natur & Wetter)
+0569: Morgentau (Natur & Wetter)
+0570: Reif (Natur & Wetter)
+0571: Raureif (Natur & Wetter)
+0572: Regen (Natur & Wetter)
+0573: Platzregen (Natur & Wetter)
+0574: Nieselregen (Natur & Wetter)
+0575: Regenschauer (Natur & Wetter)
+0576: Regenbogen (Natur & Wetter)
+0577: Regentropfen (Natur & Wetter)
+0578: Schnee (Natur & Wetter)
+0579: Schneeflocke (Natur & Wetter)
+0580: Schneeball (Natur & Wetter)
+0581: Schneemann (Natur & Wetter)
+0583: Eis (Natur & Wetter)
+0584: Eiszapfen (Natur & Wetter)
+0585: Hagel (Natur & Wetter)
+0586: Hagelkorn (Natur & Wetter)
+0587: Graupel (Natur & Wetter)
+0588: Frost (Natur & Wetter)
+0589: Glatteis (Natur & Wetter)
+0590: Wind (Natur & Wetter)
+0591: Brise (Natur & Wetter)
+0592: Sturm (Natur & Wetter)
+0593: Orkan (Natur & Wetter)
+0594: Wirbelsturm (Natur & Wetter)
+0595: Tornado (Natur & Wetter)
+0596: Gewitter (Natur & Wetter)
+0597: Blitz (Natur & Wetter)
+0598: Donner (Natur & Wetter)
+0599: Sonnenschein (Natur & Wetter)
+0600: Schatten (Natur & Wetter)
+0601: Kopf (Körper & Gesundheit)
+0602: Gesicht (Körper & Gesundheit)
+0603: Stirn (Körper & Gesundheit)
+0604: Schläfe (Körper & Gesundheit)
+0605: Wange (Körper & Gesundheit)
+0606: Backe (Körper & Gesundheit)
+0607: Kinn (Körper & Gesundheit)
+0608: Kiefer (Körper & Gesundheit)
+0609: Unterkiefer (Körper & Gesundheit)
+0610: Oberkiefer (Körper & Gesundheit)
+0611: Auge (Körper & Gesundheit)
+0612: Augapfel (Körper & Gesundheit)
+0613: Augenlid (Körper & Gesundheit)
+0614: Augenbraue (Körper & Gesundheit)
+0615: Wimper (Körper & Gesundheit)
+0616: Pupille (Körper & Gesundheit)
+0617: Iris (Körper & Gesundheit)
+0618: Träne (Körper & Gesundheit)
+0619: Nase (Körper & Gesundheit)
+0620: Nasenloch (Körper & Gesundheit)
+0621: Nasenspitze (Körper & Gesundheit)
+0622: Nasenrücken (Körper & Gesundheit)
+0623: Ohr (Körper & Gesundheit)
+0624: Ohrläppchen (Körper & Gesundheit)
+0625: Ohrmuschel (Körper & Gesundheit)
+0626: Trommelfell (Körper & Gesundheit)
+0627: Mund (Körper & Gesundheit)
+0628: Lippe (Körper & Gesundheit)
+0629: Oberlippe (Körper & Gesundheit)
+0630: Unterlippe (Körper & Gesundheit)
+0631: Zunge (Körper & Gesundheit)
+0632: Gaumen (Körper & Gesundheit)
+0633: Zahn (Körper & Gesundheit)
+0634: Schneidezahn (Körper & Gesundheit)
+0635: Eckzahn (Körper & Gesundheit)
+0636: Backenzahn (Körper & Gesundheit)
+0637: Milchzahn (Körper & Gesundheit)
+0638: Zahnfleisch (Körper & Gesundheit)
+0639: Haar (Körper & Gesundheit)
+0640: Kopfhaar (Körper & Gesundheit)
+0641: Locke (Körper & Gesundheit)
+0642: Zopf (Körper & Gesundheit)
+0643: Pony (Körper & Gesundheit)
+0644: Bart (Körper & Gesundheit)
+0645: Schnurrbart (Körper & Gesundheit)
+0646: Vollbart (Körper & Gesundheit)
+0647: Hals (Körper & Gesundheit)
+0648: Nacken (Körper & Gesundheit)
+0649: Kehle (Körper & Gesundheit)
+0650: Rachen (Körper & Gesundheit)
+0651: Schulter (Körper & Gesundheit)
+0652: Schulterblatt (Körper & Gesundheit)
+0653: Schlüsselbein (Körper & Gesundheit)
+0654: Arm (Körper & Gesundheit)
+0655: Oberarm (Körper & Gesundheit)
+0656: Unterarm (Körper & Gesundheit)
+0657: Ellenbogen (Körper & Gesundheit)
+0658: Handgelenk (Körper & Gesundheit)
+0659: Hand (Körper & Gesundheit)
+0660: Handfläche (Körper & Gesundheit)
+0661: Handrücken (Körper & Gesundheit)
+0662: Faust (Körper & Gesundheit)
+0663: Finger (Körper & Gesundheit)
+0664: Daumen (Körper & Gesundheit)
+0665: Zeigefinger (Körper & Gesundheit)
+0666: Mittelfinger (Körper & Gesundheit)
+0667: Ringfinger (Körper & Gesundheit)
+0669: Fingernagel (Körper & Gesundheit)
+0670: Fingerkuppe (Körper & Gesundheit)
+0671: Knöchel (Körper & Gesundheit)
+0672: Brust (Körper & Gesundheit)
+0673: Brustkorb (Körper & Gesundheit)
+0674: Rippe (Körper & Gesundheit)
+0675: Bauch (Körper & Gesundheit)
+0676: Bauchnabel (Körper & Gesundheit)
+0677: Taille (Körper & Gesundheit)
+0678: Hüfte (Körper & Gesundheit)
+0679: Rücken (Körper & Gesundheit)
+0680: Wirbelsäule (Körper & Gesundheit)
+0681: Wirbel (Körper & Gesundheit)
+0682: Becken (Körper & Gesundheit)
+0683: Bein (Körper & Gesundheit)
+0684: Oberschenkel (Körper & Gesundheit)
+0685: Unterschenkel (Körper & Gesundheit)
+0686: Wade (Körper & Gesundheit)
+0687: Schienbein (Körper & Gesundheit)
+0688: Knie (Körper & Gesundheit)
+0689: Kniescheibe (Körper & Gesundheit)
+0690: Kniekehle (Körper & Gesundheit)
+0691: Fußgelenk (Körper & Gesundheit)
+0692: Sprunggelenk (Körper & Gesundheit)
+0693: Fuß (Körper & Gesundheit)
+0694: Ferse (Körper & Gesundheit)
+0695: Hacke (Körper & Gesundheit)
+0696: Fußsohle (Körper & Gesundheit)
+0697: Spann (Körper & Gesundheit)
+0698: Zeh (Körper & Gesundheit)
+0699: Zehe (Körper & Gesundheit)
+0700: Fußnagel (Körper & Gesundheit)
+0701: Haut (Körper & Gesundheit)
+0702: Pore (Körper & Gesundheit)
+0703: Sommersprosse (Körper & Gesundheit)
+0704: Muttermal (Körper & Gesundheit)
+0705: Leberfleck (Körper & Gesundheit)
+0706: Falte (Körper & Gesundheit)
+0707: Grübchen (Körper & Gesundheit)
+0708: Narbe (Körper & Gesundheit)
+0709: Blase (Körper & Gesundheit)
+0711: Knochen (Körper & Gesundheit)
+0712: Skelett (Körper & Gesundheit)
+0713: Schädel (Körper & Gesundheit)
+0714: Gelenk (Körper & Gesundheit)
+0715: Knorpel (Körper & Gesundheit)
+0716: Muskel (Körper & Gesundheit)
+0717: Sehne (Körper & Gesundheit)
+0718: Band (Körper & Gesundheit)
+0719: Gewebe (Körper & Gesundheit)
+0720: Fett (Körper & Gesundheit)
+0721: Herz (Körper & Gesundheit)
+0722: Herzschlag (Körper & Gesundheit)
+0723: Puls (Körper & Gesundheit)
+0724: Blut (Körper & Gesundheit)
+0725: Blutgefäß (Körper & Gesundheit)
+0726: Ader (Körper & Gesundheit)
+0727: Arterie (Körper & Gesundheit)
+0728: Vene (Körper & Gesundheit)
+0729: Kapillare (Körper & Gesundheit)
+0730: Lunge (Körper & Gesundheit)
+0731: Lungenflügel (Körper & Gesundheit)
+0732: Atem (Körper & Gesundheit)
+0733: Atemzug (Körper & Gesundheit)
+0734: Luftröhre (Körper & Gesundheit)
+0735: Speiseröhre (Körper & Gesundheit)
+0736: Magen (Körper & Gesundheit)
+0737: Darm (Körper & Gesundheit)
+0738: Dünndarm (Körper & Gesundheit)
+0739: Dickdarm (Körper & Gesundheit)
+0740: Blinddarm (Körper & Gesundheit)
+0741: Leber (Körper & Gesundheit)
+0742: Galle (Körper & Gesundheit)
+0743: Gallenblase (Körper & Gesundheit)
+0744: Niere (Körper & Gesundheit)
+0745: Milz (Körper & Gesundheit)
+0746: Bauchspeicheldrüse (Körper & Gesundheit)
+0747: Schilddrüse (Körper & Gesundheit)
+0748: Mandel (Körper & Gesundheit)
+0749: Gehirn (Körper & Gesundheit)
+0750: Nerv (Körper & Gesundheit)
+0751: Rückenmark (Körper & Gesundheit)
+0752: Zelle (Körper & Gesundheit)
+0753: Blutkörperchen (Körper & Gesundheit)
+0754: Speichel (Körper & Gesundheit)
+0755: Schweiß (Körper & Gesundheit)
+0756: Gesundheit (Körper & Gesundheit)
+0757: Kraft (Körper & Gesundheit)
+0758: Energie (Körper & Gesundheit)
+0759: Ausdauer (Körper & Gesundheit)
+0760: Schlaf (Körper & Gesundheit)
+0761: Traum (Körper & Gesundheit)
+0762: Gähnen (Körper & Gesundheit)
+0763: Niesen (Körper & Gesundheit)
+0764: Husten (Körper & Gesundheit)
+0765: Schnupfen (Körper & Gesundheit)
+0766: Erkältung (Körper & Gesundheit)
+0767: Fieber (Körper & Gesundheit)
+0768: Schüttelfrost (Körper & Gesundheit)
+0769: Kopfschmerz (Körper & Gesundheit)
+0771: Zahnschmerz (Körper & Gesundheit)
+0774: Wunde (Körper & Gesundheit)
+0775: Schramme (Körper & Gesundheit)
+0776: Kratzer (Körper & Gesundheit)
+0777: Beule (Körper & Gesundheit)
+0778: Bluterguss (Körper & Gesundheit)
+0779: Prellung (Körper & Gesundheit)
+0780: Verstauchung (Körper & Gesundheit)
+0781: Knochenbruch (Körper & Gesundheit)
+0782: Gips (Körper & Gesundheit)
+0783: Gipsverband (Körper & Gesundheit)
+0784: Verband (Körper & Gesundheit)
+0785: Mullbinde (Körper & Gesundheit)
+0786: Pflaster (Körper & Gesundheit)
+0787: Heftpflaster (Körper & Gesundheit)
+0788: Salbe (Körper & Gesundheit)
+0789: Creme (Körper & Gesundheit)
+0790: Tropfen (Körper & Gesundheit)
+0791: Nasenspray (Körper & Gesundheit)
+0792: Hustensaft (Körper & Gesundheit)
+0793: Tablette (Körper & Gesundheit)
+0794: Kapsel (Körper & Gesundheit)
+0795: Medizin (Körper & Gesundheit)
+0796: Fieberthermometer (Körper & Gesundheit)
+0797: Stethoskop (Körper & Gesundheit)
+0798: Spritze (Körper & Gesundheit)
+0799: Impfung (Körper & Gesundheit)
+0800: Krücke (Körper & Gesundheit)
+0801: Hose (Kleidung)
+0802: Jeans (Kleidung)
+0803: Stoffhose (Kleidung)
+0804: Cordhose (Kleidung)
+0805: Jogginghose (Kleidung)
+0806: Trainingshose (Kleidung)
+0807: Sporthose (Kleidung)
+0809: Shorts (Kleidung)
+0811: Leggings (Kleidung)
+0812: Strumpfhose (Kleidung)
+0813: Latzhose (Kleidung)
+0814: Regenhose (Kleidung)
+0815: Schneehose (Kleidung)
+0816: Skihose (Kleidung)
+0817: Wanderhose (Kleidung)
+0818: Arbeitshose (Kleidung)
+0819: Anzughose (Kleidung)
+0820: Bundfaltenhose (Kleidung)
+0821: Hemd (Kleidung)
+0822: Oberhemd (Kleidung)
+0823: Freizeithemd (Kleidung)
+0824: Karohemd (Kleidung)
+0825: Jeanshemd (Kleidung)
+0826: T-Shirt (Kleidung)
+0827: Poloshirt (Kleidung)
+0828: Langarmshirt (Kleidung)
+0829: Sweatshirt (Kleidung)
+0830: Top (Kleidung)
+0831: Trägertop (Kleidung)
+0832: Bluse (Kleidung)
+0833: Tunika (Kleidung)
+0834: Pullover (Kleidung)
+0835: Strickpullover (Kleidung)
+0836: Rollkragenpullover (Kleidung)
+0837: Kapuzenpullover (Kleidung)
+0838: Hoodie (Kleidung)
+0839: Pullunder (Kleidung)
+0840: Strickjacke (Kleidung)
+0841: Cardigan (Kleidung)
+0842: Weste (Kleidung)
+0843: Strickweste (Kleidung)
+0844: Daunenweste (Kleidung)
+0846: Warnweste (Kleidung)
+0847: Rettungsweste (Kleidung)
+0848: Jacke (Kleidung)
+0849: Winterjacke (Kleidung)
+0850: Sommerjacke (Kleidung)
+0851: Übergangsjacke (Kleidung)
+0852: Regenjacke (Kleidung)
+0853: Windjacke (Kleidung)
+0854: Fleecejacke (Kleidung)
+0855: Daunenjacke (Kleidung)
+0856: Lederjacke (Kleidung)
+0857: Jeansjacke (Kleidung)
+0858: Bomberjacke (Kleidung)
+0859: Steppjacke (Kleidung)
+0860: Skijacke (Kleidung)
+0861: Softshelljacke (Kleidung)
+0862: Anorak (Kleidung)
+0863: Parka (Kleidung)
+0864: Mantel (Kleidung)
+0865: Wintermantel (Kleidung)
+0866: Regenmantel (Kleidung)
+0867: Trenchcoat (Kleidung)
+0868: Wollmantel (Kleidung)
+0869: Bademantel (Kleidung)
+0870: Morgenmantel (Kleidung)
+0871: Umhang (Kleidung)
+0872: Cape (Kleidung)
+0873: Poncho (Kleidung)
+0874: Kleid (Kleidung)
+0875: Sommerkleid (Kleidung)
+0876: Winterkleid (Kleidung)
+0877: Strickkleid (Kleidung)
+0878: Abendkleid (Kleidung)
+0879: Ballkleid (Kleidung)
+0880: Brautkleid (Kleidung)
+0881: Dirndl (Kleidung)
+0882: Tracht (Kleidung)
+0883: Lederhose (Kleidung)
+0884: Rock (Kleidung)
+0885: Minirock (Kleidung)
+0886: Faltenrock (Kleidung)
+0887: Jeansrock (Kleidung)
+0888: Anzug (Kleidung)
+0889: Smoking (Kleidung)
+0890: Frack (Kleidung)
+0891: Sakko (Kleidung)
+0892: Blazer (Kleidung)
+0893: Kostüm (Kleidung)
+0894: Hosenanzug (Kleidung)
+0895: Overalls (Kleidung)
+0896: Strampler (Kleidung)
+0897: Schlafanzug (Kleidung)
+0898: Pyjama (Kleidung)
+0899: Nachthemd (Kleidung)
+0900: Unterhemd (Kleidung)
+0901: Unterhose (Kleidung)
+0902: Socke (Kleidung)
+0903: Kniestrumpf (Kleidung)
+0904: Strumpf (Kleidung)
+0908: Stulpe (Kleidung)
+0909: Badehose (Kleidung)
+0910: Badeanzug (Kleidung)
+0911: Bikini (Kleidung)
+0912: Badekappe (Kleidung)
+0913: Trikot (Kleidung)
+0914: Fußballtrikot (Kleidung)
+0915: Trainingsanzug (Kleidung)
+0917: Turnanzug (Kleidung)
+0918: Schuh (Kleidung)
+0919: Halbschuh (Kleidung)
+0920: Turnschuh (Kleidung)
+0921: Sneaker (Kleidung)
+0922: Laufschuh (Kleidung)
+0923: Wanderschuhe (Kleidung)
+0924: Bergschuh (Kleidung)
+0925: Arbeitsschuh (Kleidung)
+0926: Gummistiefel (Kleidung)
+0927: Stiefel (Kleidung)
+0928: Winterstiefel (Kleidung)
+0929: Reitstiefel (Kleidung)
+0930: Stiefelette (Kleidung)
+0931: Sandale (Kleidung)
+0932: Sandalette (Kleidung)
+0933: Flipflop (Kleidung)
+0935: Hausschuh (Kleidung)
+0936: Pantoffel (Kleidung)
+0937: Ballerina (Kleidung)
+0938: Pumps (Kleidung)
+0940: Lederschuh (Kleidung)
+0941: Holzschuh (Kleidung)
+0942: Schlittschuh (Kleidung)
+0943: Rollschuh (Kleidung)
+0944: Skischuh (Kleidung)
+0945: Fußballschuh (Kleidung)
+0946: Kletterschuh (Kleidung)
+0947: Schnürsenkel (Kleidung)
+0948: Einlegesohle (Kleidung)
+0949: Schuhsohle (Kleidung)
+0950: Absatz (Kleidung)
+0951: Mütze (Kleidung)
+0952: Wollmütze (Kleidung)
+0953: Strickmütze (Kleidung)
+0954: Pudelmütze (Kleidung)
+0955: Bommelmütze (Kleidung)
+0957: Kappe (Kleidung)
+0958: Basecap (Kleidung)
+0959: Schirmmütze (Kleidung)
+0960: Baskenmütze (Kleidung)
+0961: Hut (Kleidung)
+0962: Strohhut (Kleidung)
+0963: Sonnenhut (Kleidung)
+0964: Filzhut (Kleidung)
+0965: Zylinder (Kleidung)
+0966: Melone (Kleidung)
+0967: Sombrero (Kleidung)
+0968: Cowboyhut (Kleidung)
+0969: Kopftuch (Kleidung)
+0970: Stirnband (Kleidung)
+0971: Ohrenschützer (Kleidung)
+0972: Schal (Kleidung)
+0973: Wollschal (Kleidung)
+0974: Seidenschal (Kleidung)
+0975: Halstuch (Kleidung)
+0976: Dreieckstuch (Kleidung)
+0977: Krawatte (Kleidung)
+0978: Schlips (Kleidung)
+0979: Fliege (Kleidung)
+0980: Handschuh (Kleidung)
+0981: Fäustling (Kleidung)
+0984: Lederhandschuh (Kleidung)
+0986: Gürtel (Kleidung)
+0987: Ledergürtel (Kleidung)
+0988: Gürtelschnalle (Kleidung)
+0989: Hosenträger (Kleidung)
+0990: Schürze (Kleidung)
+0991: Kochschürze (Kleidung)
+0992: Lätzchen (Kleidung)
+0993: Kragen (Kleidung)
+0994: Ärmel (Kleidung)
+0995: Kapuze (Kleidung)
+0996: Knopf (Kleidung)
+0997: Reißverschluss (Kleidung)
+0998: Tasche (Kleidung)
+0999: Hosentasche (Kleidung)
+1000: Brusttasche (Kleidung)
+1001: Tisch (Haushalt)
+1002: Esstisch (Haushalt)
+1003: Couchtisch (Haushalt)
+1004: Schreibtisch (Haushalt)
+1005: Nachttisch (Haushalt)
+1006: Beistelltisch (Haushalt)
+1007: Stuhl (Haushalt)
+1008: Holzstuhl (Haushalt)
+1009: Drehstuhl (Haushalt)
+1010: Bürostuhl (Haushalt)
+1011: Klappstuhl (Haushalt)
+1012: Sessel (Haushalt)
+1013: Ohrensessel (Haushalt)
+1014: Schaukelstuhl (Haushalt)
+1015: Sofa (Haushalt)
+1016: Couch (Haushalt)
+1017: Ecksofa (Haushalt)
+1018: Schlafsofa (Haushalt)
+1019: Hocker (Haushalt)
+1020: Sitzsack (Haushalt)
+1021: Bank (Haushalt)
+1022: Eckbank (Haushalt)
+1023: Bett (Haushalt)
+1024: Doppelbett (Haushalt)
+1025: Einzelbett (Haushalt)
+1026: Hochbett (Haushalt)
+1027: Etagenbett (Haushalt)
+1028: Kinderbett (Haushalt)
+1029: Gitterbett (Haushalt)
+1030: Matratze (Haushalt)
+1031: Lattenrost (Haushalt)
+1032: Kopfkissen (Haushalt)
+1033: Kissen (Haushalt)
+1034: Bettdecke (Haushalt)
+1035: Decke (Haushalt)
+1036: Wolldecke (Haushalt)
+1037: Tagesdecke (Haushalt)
+1038: Bettlaken (Haushalt)
+1039: Bettbezug (Haushalt)
+1040: Kissenbezug (Haushalt)
+1041: Schrank (Haushalt)
+1042: Kleiderschrank (Haushalt)
+1043: Wandschrank (Haushalt)
+1044: Bücherschrank (Haushalt)
+1045: Schuhschrank (Haushalt)
+1046: Küchenschrank (Haushalt)
+1047: Hängeschrank (Haushalt)
+1048: Spiegelschrank (Haushalt)
+1049: Kommode (Haushalt)
+1050: Sideboard (Haushalt)
+1051: Regal (Haushalt)
+1052: Bücherregal (Haushalt)
+1053: Wandregal (Haushalt)
+1054: Schuhregal (Haushalt)
+1055: Vitrine (Haushalt)
+1056: Truhe (Haushalt)
+1057: Garderobe (Haushalt)
+1058: Kleiderbügel (Haushalt)
+1059: Kleiderhaken (Haushalt)
+1060: Spiegel (Haushalt)
+1061: Wandspiegel (Haushalt)
+1062: Handspiegel (Haushalt)
+1063: Teppich (Haushalt)
+1064: Läufer (Haushalt)
+1065: Fußmatte (Haushalt)
+1066: Vorhang (Haushalt)
+1067: Gardine (Haushalt)
+1068: Rollo (Haushalt)
+1069: Jalousie (Haushalt)
+1070: Lampe (Haushalt)
+1071: Deckenlampe (Haushalt)
+1072: Stehlampe (Haushalt)
+1073: Tischlampe (Haushalt)
+1074: Nachttischlampe (Haushalt)
+1075: Wandlampe (Haushalt)
+1076: Schreibtischlampe (Haushalt)
+1077: Kronleuchter (Haushalt)
+1078: Glühbirne (Haushalt)
+1079: Taschenlampe (Haushalt)
+1080: Kerze (Haushalt)
+1081: Teelicht (Haushalt)
+1082: Kerzenständer (Haushalt)
+1083: Streichholz (Haushalt)
+1084: Feuerzeug (Haushalt)
+1085: Uhr (Haushalt)
+1086: Wanduhr (Haushalt)
+1087: Wecker (Haushalt)
+1088: Standuhr (Haushalt)
+1089: Bild (Haushalt)
+1090: Bilderrahmen (Haushalt)
+1091: Poster (Haushalt)
+1092: Vase (Haushalt)
+1093: Blumenvase (Haushalt)
+1094: Blumentopf (Haushalt)
+1096: Gießkanne (Haushalt)
+1097: Kühlschrank (Haushalt)
+1098: Gefrierschrank (Haushalt)
+1099: Gefriertruhe (Haushalt)
+1100: Herd (Haushalt)
+1101: Elektroherd (Haushalt)
+1102: Gasherd (Haushalt)
+1103: Backofen (Haushalt)
+1104: Mikrowelle (Haushalt)
+1105: Spülmaschine (Haushalt)
+1106: Geschirrspüler (Haushalt)
+1107: Dunstabzugshaube (Haushalt)
+1108: Spüle (Haushalt)
+1109: Spülbecken (Haushalt)
+1110: Wasserhahn (Haushalt)
+1111: Kaffeemaschine (Haushalt)
+1112: Wasserkocher (Haushalt)
+1113: Toaster (Haushalt)
+1114: Mixer (Haushalt)
+1115: Stabmixer (Haushalt)
+1116: Handrührgerät (Haushalt)
+1117: Küchenmaschine (Haushalt)
+1118: Waffeleisen (Haushalt)
+1119: Sandwichmaker (Haushalt)
+1120: Entsafter (Haushalt)
+1121: Teller (Haushalt)
+1122: Suppenteller (Haushalt)
+1123: Frühstücksteller (Haushalt)
+1124: Kuchenteller (Haushalt)
+1125: Schüssel (Haushalt)
+1126: Salatschüssel (Haushalt)
+1128: Tasse (Haushalt)
+1129: Kaffeetasse (Haushalt)
+1130: Teetasse (Haushalt)
+1131: Becher (Haushalt)
+1132: Trinkbecher (Haushalt)
+1133: Zahnputzbecher (Haushalt)
+1134: Glas (Haushalt)
+1135: Trinkglas (Haushalt)
+1136: Wasserglas (Haushalt)
+1138: Krug (Haushalt)
+1139: Wasserkrug (Haushalt)
+1140: Karaffe (Haushalt)
+1141: Teekanne (Haushalt)
+1142: Kaffeekanne (Haushalt)
+1143: Thermoskanne (Haushalt)
+1144: Flasche (Haushalt)
+1145: Trinkflasche (Haushalt)
+1146: Besteck (Haushalt)
+1147: Messer (Haushalt)
+1148: Küchenmesser (Haushalt)
+1149: Brotmesser (Haushalt)
+1150: Gemüsemesser (Haushalt)
+1151: Gabel (Haushalt)
+1152: Löffel (Haushalt)
+1153: Esslöffel (Haushalt)
+1154: Teelöffel (Haushalt)
+1155: Suppenkelle (Haushalt)
+1156: Schöpfkelle (Haushalt)
+1157: Pfannenwender (Haushalt)
+1158: Schneebesen (Haushalt)
+1159: Nudelholz (Haushalt)
+1160: Schneidebrett (Haushalt)
+1161: Sieb (Haushalt)
+1162: Küchensieb (Haushalt)
+1163: Nudelsieb (Haushalt)
+1164: Reibe (Haushalt)
+1165: Küchenreibe (Haushalt)
+1166: Sparschäler (Haushalt)
+1167: Dosenöffner (Haushalt)
+1168: Flaschenöffner (Haushalt)
+1169: Korkenzieher (Haushalt)
+1170: Knoblauchpresse (Haushalt)
+1171: Zitronenpresse (Haushalt)
+1172: Topf (Haushalt)
+1173: Kochtopf (Haushalt)
+1174: Suppentopf (Haushalt)
+1175: Schnellkochtopf (Haushalt)
+1176: Deckel (Haushalt)
+1177: Topfdeckel (Haushalt)
+1178: Pfanne (Haushalt)
+1179: Bratpfanne (Haushalt)
+1180: Auflaufform (Haushalt)
+1181: Backblech (Haushalt)
+1182: Springform (Haushalt)
+1183: Kuchenform (Haushalt)
+1184: Geschirrtuch (Haushalt)
+1185: Topflappen (Haushalt)
+1187: Schwamm (Haushalt)
+1189: Lappen (Haushalt)
+1190: Putzlappen (Haushalt)
+1191: Besen (Haushalt)
+1192: Handfeger (Haushalt)
+1193: Kehrblech (Haushalt)
+1194: Schaufel (Haushalt)
+1195: Wischmopp (Haushalt)
+1196: Eimer (Haushalt)
+1197: Putzeimer (Haushalt)
+1198: Mülleimer (Haushalt)
+1199: Staubsauger (Haushalt)
+1200: Bügeleisen (Haushalt)
+1201: Auto (Fahrzeuge & Verkehr)
+1202: Kleinwagen (Fahrzeuge & Verkehr)
+1203: Kombi (Fahrzeuge & Verkehr)
+1204: Limousine (Fahrzeuge & Verkehr)
+1205: Cabrio (Fahrzeuge & Verkehr)
+1206: Geländewagen (Fahrzeuge & Verkehr)
+1207: Sportwagen (Fahrzeuge & Verkehr)
+1208: Rennwagen (Fahrzeuge & Verkehr)
+1209: Oldtimer (Fahrzeuge & Verkehr)
+1210: Elektroauto (Fahrzeuge & Verkehr)
+1211: Wohnmobil (Fahrzeuge & Verkehr)
+1212: Wohnwagen (Fahrzeuge & Verkehr)
+1213: Camper (Fahrzeuge & Verkehr)
+1214: Bus (Fahrzeuge & Verkehr)
+1215: Reisebus (Fahrzeuge & Verkehr)
+1216: Linienbus (Fahrzeuge & Verkehr)
+1217: Schulbus (Fahrzeuge & Verkehr)
+1218: Doppeldecker (Fahrzeuge & Verkehr)
+1219: Kleinbus (Fahrzeuge & Verkehr)
+1220: Straßenbahn (Fahrzeuge & Verkehr)
+1221: U-Bahn (Fahrzeuge & Verkehr)
+1222: S-Bahn (Fahrzeuge & Verkehr)
+1223: Zug (Fahrzeuge & Verkehr)
+1224: Eisenbahn (Fahrzeuge & Verkehr)
+1225: Schnellzug (Fahrzeuge & Verkehr)
+1226: Dampflok (Fahrzeuge & Verkehr)
+1227: Lokomotive (Fahrzeuge & Verkehr)
+1228: Waggon (Fahrzeuge & Verkehr)
+1229: Güterzug (Fahrzeuge & Verkehr)
+1230: Personenzug (Fahrzeuge & Verkehr)
+1231: Lkw (Fahrzeuge & Verkehr)
+1232: Lastwagen (Fahrzeuge & Verkehr)
+1233: Transporter (Fahrzeuge & Verkehr)
+1234: Lieferwagen (Fahrzeuge & Verkehr)
+1235: Kastenwagen (Fahrzeuge & Verkehr)
+1236: Muldenkipper (Fahrzeuge & Verkehr)
+1237: Betonmischer (Fahrzeuge & Verkehr)
+1238: Tankwagen (Fahrzeuge & Verkehr)
+1239: Abschleppwagen (Fahrzeuge & Verkehr)
+1240: Müllwagen (Fahrzeuge & Verkehr)
+1241: Schneepflug (Fahrzeuge & Verkehr)
+1242: Kehrmaschine (Fahrzeuge & Verkehr)
+1243: Bagger (Fahrzeuge & Verkehr)
+1244: Radlader (Fahrzeuge & Verkehr)
+1245: Planierraupe (Fahrzeuge & Verkehr)
+1246: Gabelstapler (Fahrzeuge & Verkehr)
+1247: Traktor (Fahrzeuge & Verkehr)
+1248: Trecker (Fahrzeuge & Verkehr)
+1249: Mähdrescher (Fahrzeuge & Verkehr)
+1250: Kran (Fahrzeuge & Verkehr)
+1251: Feuerwehrauto (Fahrzeuge & Verkehr)
+1252: Löschfahrzeug (Fahrzeuge & Verkehr)
+1253: Drehleiter (Fahrzeuge & Verkehr)
+1254: Polizeiauto (Fahrzeuge & Verkehr)
+1255: Streifenwagen (Fahrzeuge & Verkehr)
+1256: Krankenwagen (Fahrzeuge & Verkehr)
+1257: Rettungswagen (Fahrzeuge & Verkehr)
+1258: Notarztwagen (Fahrzeuge & Verkehr)
+1259: Taxi (Fahrzeuge & Verkehr)
+1260: Fahrrad (Fahrzeuge & Verkehr)
+1261: Rennrad (Fahrzeuge & Verkehr)
+1262: Mountainbike (Fahrzeuge & Verkehr)
+1263: E-Bike (Fahrzeuge & Verkehr)
+1264: Klapprad (Fahrzeuge & Verkehr)
+1265: Lastenrad (Fahrzeuge & Verkehr)
+1266: Hollandrad (Fahrzeuge & Verkehr)
+1267: Kinderfahrrad (Fahrzeuge & Verkehr)
+1268: Dreirad (Fahrzeuge & Verkehr)
+1269: Laufrad (Fahrzeuge & Verkehr)
+1270: Einrad (Fahrzeuge & Verkehr)
+1271: Roller (Fahrzeuge & Verkehr)
+1272: Tretroller (Fahrzeuge & Verkehr)
+1273: Motorroller (Fahrzeuge & Verkehr)
+1274: Mofa (Fahrzeuge & Verkehr)
+1275: Moped (Fahrzeuge & Verkehr)
+1276: Motorrad (Fahrzeuge & Verkehr)
+1277: Quad (Fahrzeuge & Verkehr)
+1278: Segway (Fahrzeuge & Verkehr)
+1279: Skateboard (Fahrzeuge & Verkehr)
+1280: Longboard (Fahrzeuge & Verkehr)
+1281: Schlitten (Fahrzeuge & Verkehr)
+1282: Bob (Fahrzeuge & Verkehr)
+1283: Schneemobil (Fahrzeuge & Verkehr)
+1284: Pistenraupe (Fahrzeuge & Verkehr)
+1285: Kutsche (Fahrzeuge & Verkehr)
+1286: Pferdekutsche (Fahrzeuge & Verkehr)
+1287: Bollerwagen (Fahrzeuge & Verkehr)
+1288: Handwagen (Fahrzeuge & Verkehr)
+1289: Schubkarre (Fahrzeuge & Verkehr)
+1290: Anhänger (Fahrzeuge & Verkehr)
+1291: Schiff (Fahrzeuge & Verkehr)
+1292: Boot (Fahrzeuge & Verkehr)
+1293: Ruderboot (Fahrzeuge & Verkehr)
+1294: Paddelboot (Fahrzeuge & Verkehr)
+1295: Kanu (Fahrzeuge & Verkehr)
+1296: Kajak (Fahrzeuge & Verkehr)
+1297: Schlauchboot (Fahrzeuge & Verkehr)
+1298: Tretboot (Fahrzeuge & Verkehr)
+1299: Motorboot (Fahrzeuge & Verkehr)
+1300: Segelboot (Fahrzeuge & Verkehr)
+1301: Segelschiff (Fahrzeuge & Verkehr)
+1302: Yacht (Fahrzeuge & Verkehr)
+1303: Fähre (Fahrzeuge & Verkehr)
+1304: Kreuzfahrtschiff (Fahrzeuge & Verkehr)
+1305: Containerschiff (Fahrzeuge & Verkehr)
+1306: Frachtschiff (Fahrzeuge & Verkehr)
+1307: Tankschiff (Fahrzeuge & Verkehr)
+1308: Fischkutter (Fahrzeuge & Verkehr)
+1309: Trawler (Fahrzeuge & Verkehr)
+1310: Eisbrecher (Fahrzeuge & Verkehr)
+1311: Schlepper (Fahrzeuge & Verkehr)
+1312: Hausboot (Fahrzeuge & Verkehr)
+1313: Floß (Fahrzeuge & Verkehr)
+1314: Gondel (Fahrzeuge & Verkehr)
+1315: Katamaran (Fahrzeuge & Verkehr)
+1317: U-Boot (Fahrzeuge & Verkehr)
+1318: Flugzeug (Fahrzeuge & Verkehr)
+1319: Passagierflugzeug (Fahrzeuge & Verkehr)
+1320: Sportflugzeug (Fahrzeuge & Verkehr)
+1321: Segelflugzeug (Fahrzeuge & Verkehr)
+1322: Wasserflugzeug (Fahrzeuge & Verkehr)
+1323: Propellerflugzeug (Fahrzeuge & Verkehr)
+1324: Düsenjet (Fahrzeuge & Verkehr)
+1325: Hubschrauber (Fahrzeuge & Verkehr)
+1326: Helikopter (Fahrzeuge & Verkehr)
+1327: Heißluftballon (Fahrzeuge & Verkehr)
+1328: Luftschiff (Fahrzeuge & Verkehr)
+1329: Zeppelin (Fahrzeuge & Verkehr)
+1330: Rakete (Fahrzeuge & Verkehr)
+1331: Raumschiff (Fahrzeuge & Verkehr)
+1332: Gleitschirm (Fahrzeuge & Verkehr)
+1333: Fallschirm (Fahrzeuge & Verkehr)
+1334: Seilbahn (Fahrzeuge & Verkehr)
+1335: Gondelbahn (Fahrzeuge & Verkehr)
+1336: Sessellift (Fahrzeuge & Verkehr)
+1337: Skilift (Fahrzeuge & Verkehr)
+1338: Straße (Fahrzeuge & Verkehr)
+1339: Landstraße (Fahrzeuge & Verkehr)
+1340: Autobahn (Fahrzeuge & Verkehr)
+1341: Hauptstraße (Fahrzeuge & Verkehr)
+1342: Nebenstraße (Fahrzeuge & Verkehr)
+1343: Einbahnstraße (Fahrzeuge & Verkehr)
+1344: Sackgasse (Fahrzeuge & Verkehr)
+1345: Fußgängerzone (Fahrzeuge & Verkehr)
+1346: Spielstraße (Fahrzeuge & Verkehr)
+1347: Allee (Fahrzeuge & Verkehr)
+1348: Gasse (Fahrzeuge & Verkehr)
+1349: Weg (Fahrzeuge & Verkehr)
+1350: Feldweg (Fahrzeuge & Verkehr)
+1351: Waldweg (Fahrzeuge & Verkehr)
+1352: Radweg (Fahrzeuge & Verkehr)
+1353: Gehweg (Fahrzeuge & Verkehr)
+1354: Bürgersteig (Fahrzeuge & Verkehr)
+1355: Kreuzung (Fahrzeuge & Verkehr)
+1356: Kreisverkehr (Fahrzeuge & Verkehr)
+1357: Ampel (Fahrzeuge & Verkehr)
+1358: Verkehrsschild (Fahrzeuge & Verkehr)
+1359: Stoppschild (Fahrzeuge & Verkehr)
+1360: Zebrastreifen (Fahrzeuge & Verkehr)
+1361: Brücke (Fahrzeuge & Verkehr)
+1362: Autobahnbrücke (Fahrzeuge & Verkehr)
+1363: Eisenbahnbrücke (Fahrzeuge & Verkehr)
+1364: Hängebrücke (Fahrzeuge & Verkehr)
+1365: Tunnel (Fahrzeuge & Verkehr)
+1366: Unterführung (Fahrzeuge & Verkehr)
+1367: Überführung (Fahrzeuge & Verkehr)
+1368: Bahnübergang (Fahrzeuge & Verkehr)
+1369: Schranke (Fahrzeuge & Verkehr)
+1370: Gleis (Fahrzeuge & Verkehr)
+1371: Schiene (Fahrzeuge & Verkehr)
+1372: Bahnhof (Fahrzeuge & Verkehr)
+1373: Hauptbahnhof (Fahrzeuge & Verkehr)
+1374: Bahnsteig (Fahrzeuge & Verkehr)
+1375: Haltestelle (Fahrzeuge & Verkehr)
+1376: Bushaltestelle (Fahrzeuge & Verkehr)
+1377: Flughafen (Fahrzeuge & Verkehr)
+1378: Landebahn (Fahrzeuge & Verkehr)
+1379: Startbahn (Fahrzeuge & Verkehr)
+1380: Hafen (Fahrzeuge & Verkehr)
+1381: Seehafen (Fahrzeuge & Verkehr)
+1382: Yachthafen (Fahrzeuge & Verkehr)
+1383: Anlegestelle (Fahrzeuge & Verkehr)
+1384: Pier (Fahrzeuge & Verkehr)
+1385: Leuchtturm (Fahrzeuge & Verkehr)
+1386: Boje (Fahrzeuge & Verkehr)
+1387: Anker (Fahrzeuge & Verkehr)
+1388: Segel (Fahrzeuge & Verkehr)
+1389: Ruder (Fahrzeuge & Verkehr)
+1390: Paddel (Fahrzeuge & Verkehr)
+1391: Reifen (Fahrzeuge & Verkehr)
+1392: Rad (Fahrzeuge & Verkehr)
+1393: Felge (Fahrzeuge & Verkehr)
+1394: Lenkrad (Fahrzeuge & Verkehr)
+1395: Auspuff (Fahrzeuge & Verkehr)
+1396: Motor (Fahrzeuge & Verkehr)
+1397: Scheinwerfer (Fahrzeuge & Verkehr)
+1398: Blinker (Fahrzeuge & Verkehr)
+1399: Hupe (Fahrzeuge & Verkehr)
+1400: Sicherheitsgurt (Fahrzeuge & Verkehr)
+1401: Arzt (Berufe)
+1402: Ärztin (Berufe)
+1403: Zahnarzt (Berufe)
+1404: Kinderarzt (Berufe)
+1405: Tierarzt (Berufe)
+1406: Augenarzt (Berufe)
+1407: Hautarzt (Berufe)
+1408: HNO-Arzt (Berufe)
+1409: Chirurg (Berufe)
+1410: Orthopäde (Berufe)
+1411: Apotheker (Berufe)
+1412: Krankenschwester (Berufe)
+1413: Krankenpfleger (Berufe)
+1414: Pfleger (Berufe)
+1415: Altenpfleger (Berufe)
+1416: Hebamme (Berufe)
+1417: Sanitäter (Berufe)
+1418: Notarzt (Berufe)
+1419: Rettungssanitäter (Berufe)
+1420: Physiotherapeut (Berufe)
+1421: Ergotherapeut (Berufe)
+1422: Logopäde (Berufe)
+1423: Optiker (Berufe)
+1424: Hörakustiker (Berufe)
+1425: Lehrer (Berufe)
+1426: Lehrerin (Berufe)
+1427: Grundschullehrer (Berufe)
+1428: Musiklehrer (Berufe)
+1429: Sportlehrer (Berufe)
+1430: Fahrlehrer (Berufe)
+1431: Fluglehrer (Berufe)
+1432: Reitlehrer (Berufe)
+1433: Skilehrer (Berufe)
+1434: Schwimmlehrer (Berufe)
+1435: Tanzlehrer (Berufe)
+1436: Erzieher (Berufe)
+1437: Erzieherin (Berufe)
+1438: Tagesmutter (Berufe)
+1439: Professor (Berufe)
+1440: Forscher (Berufe)
+1441: Wissenschaftler (Berufe)
+1442: Biologe (Berufe)
+1443: Chemiker (Berufe)
+1444: Physiker (Berufe)
+1445: Astronom (Berufe)
+1446: Geologe (Berufe)
+1447: Archäologe (Berufe)
+1448: Historiker (Berufe)
+1449: Bibliothekar (Berufe)
+1450: Archivar (Berufe)
+1451: Bäcker (Berufe)
+1452: Konditor (Berufe)
+1453: Metzger (Berufe)
+1454: Fleischer (Berufe)
+1455: Koch (Berufe)
+1456: Küchenchef (Berufe)
+1457: Bäckermeister (Berufe)
+1458: Kellner (Berufe)
+1459: Ober (Berufe)
+1460: Bedienung (Berufe)
+1461: Barkeeper (Berufe)
+1462: Barista (Berufe)
+1463: Eisverkäufer (Berufe)
+1464: Kassierer (Berufe)
+1465: Verkäufer (Berufe)
+1466: Kaufmann (Berufe)
+1467: Buchhändler (Berufe)
+1468: Blumenhändler (Berufe)
+1469: Florist (Berufe)
+1470: Markthändler (Berufe)
+1471: Tischler (Berufe)
+1472: Schreiner (Berufe)
+1473: Zimmermann (Berufe)
+1474: Dachdecker (Berufe)
+1475: Maurer (Berufe)
+1476: Maler (Berufe)
+1477: Lackierer (Berufe)
+1478: Stuckateur (Berufe)
+1479: Fliesenleger (Berufe)
+1480: Bodenleger (Berufe)
+1481: Klempner (Berufe)
+1482: Installateur (Berufe)
+1483: Heizungsbauer (Berufe)
+1484: Elektriker (Berufe)
+1485: Elektromeister (Berufe)
+1486: Schlosser (Berufe)
+1487: Metallbauer (Berufe)
+1488: Schmied (Berufe)
+1489: Goldschmied (Berufe)
+1490: Uhrmacher (Berufe)
+1491: Mechaniker (Berufe)
+1492: Automechaniker (Berufe)
+1493: Kfz-Mechatroniker (Berufe)
+1494: Fahrradmechaniker (Berufe)
+1495: Zweiradmechaniker (Berufe)
+1496: Landmaschinenmechaniker (Berufe)
+1497: Glaser (Berufe)
+1498: Steinmetz (Berufe)
+1499: Töpfer (Berufe)
+1500: Korbmacher (Berufe)
+1501: Schneider (Berufe)
+1503: Modedesigner (Berufe)
+1504: Schuhmacher (Berufe)
+1505: Schuster (Berufe)
+1506: Sattler (Berufe)
+1507: Polsterer (Berufe)
+1508: Raumausstatter (Berufe)
+1509: Friseur (Berufe)
+1510: Friseurin (Berufe)
+1511: Kosmetikerin (Berufe)
+1512: Maskenbildner (Berufe)
+1513: Visagist (Berufe)
+1514: Polizist (Berufe)
+1515: Polizistin (Berufe)
+1516: Kommissar (Berufe)
+1517: Detektiv (Berufe)
+1518: Feuerwehrmann (Berufe)
+1519: Feuerwehrfrau (Berufe)
+1520: Rettungsschwimmer (Berufe)
+1521: Bademeister (Berufe)
+1522: Bergretter (Berufe)
+1523: Förster (Berufe)
+1524: Jäger (Berufe)
+1525: Wildhüter (Berufe)
+1526: Gärtner (Berufe)
+1527: Landschaftsgärtner (Berufe)
+1528: Bauer (Berufe)
+1529: Landwirt (Berufe)
+1530: Winzer (Berufe)
+1531: Imker (Berufe)
+1532: Schäfer (Berufe)
+1533: Hirte (Berufe)
+1534: Pferdewirt (Berufe)
+1535: Tierpfleger (Berufe)
+1536: Fischer (Berufe)
+1537: Seemann (Berufe)
+1538: Matrose (Berufe)
+1539: Kapitän (Berufe)
+1540: Steuermann (Berufe)
+1541: Lotse (Berufe)
+1542: Pilot (Berufe)
+1543: Kopilot (Berufe)
+1544: Flugbegleiter (Berufe)
+1545: Stewardess (Berufe)
+1546: Fluglotse (Berufe)
+1547: Lokführer (Berufe)
+1548: Schaffner (Berufe)
+1549: Zugbegleiter (Berufe)
+1550: Busfahrer (Berufe)
+1551: Taxifahrer (Berufe)
+1552: Lkw-Fahrer (Berufe)
+1553: Fernfahrer (Berufe)
+1554: Chauffeur (Berufe)
+1555: Paketbote (Berufe)
+1556: Postbote (Berufe)
+1557: Briefträger (Berufe)
+1558: Kurier (Berufe)
+1559: Müllmann (Berufe)
+1560: Straßenkehrer (Berufe)
+1561: Schornsteinfeger (Berufe)
+1562: Gebäudereiniger (Berufe)
+1563: Fensterputzer (Berufe)
+1564: Hausmeister (Berufe)
+1565: Gärtnermeister (Berufe)
+1566: Gartenbauer (Berufe)
+1567: Bauarbeiter (Berufe)
+1568: Kranführer (Berufe)
+1569: Baggerfahrer (Berufe)
+1570: Architekt (Berufe)
+1571: Bauingenieur (Berufe)
+1572: Ingenieur (Berufe)
+1573: Techniker (Berufe)
+1574: Programmierer (Berufe)
+1575: Informatiker (Berufe)
+1576: Webdesigner (Berufe)
+1577: Grafiker (Berufe)
+1578: Fotograf (Berufe)
+1579: Kameramann (Berufe)
+1580: Tontechniker (Berufe)
+1581: Journalist (Berufe)
+1582: Reporter (Berufe)
+1583: Nachrichtensprecher (Berufe)
+1584: Moderator (Berufe)
+1585: Redakteur (Berufe)
+1586: Autor (Berufe)
+1587: Schriftsteller (Berufe)
+1588: Dichter (Berufe)
+1589: Übersetzer (Berufe)
+1590: Dolmetscher (Berufe)
+1591: Musiker (Berufe)
+1592: Sänger (Berufe)
+1593: Dirigent (Berufe)
+1594: Komponist (Berufe)
+1595: Schauspieler (Berufe)
+1596: Regisseur (Berufe)
+1597: Tänzer (Berufe)
+1598: Artist (Berufe)
+1599: Zirkusdirektor (Berufe)
+1600: Clown (Berufe)
+1601: Haus (Gebäude & Orte)
+1602: Wohnhaus (Gebäude & Orte)
+1603: Einfamilienhaus (Gebäude & Orte)
+1604: Mehrfamilienhaus (Gebäude & Orte)
+1605: Reihenhaus (Gebäude & Orte)
+1606: Doppelhaus (Gebäude & Orte)
+1607: Hochhaus (Gebäude & Orte)
+1608: Wolkenkratzer (Gebäude & Orte)
+1609: Bungalow (Gebäude & Orte)
+1610: Villa (Gebäude & Orte)
+1611: Bauernhof (Gebäude & Orte)
+1612: Gutshof (Gebäude & Orte)
+1613: Forsthaus (Gebäude & Orte)
+1614: Jagdhütte (Gebäude & Orte)
+1615: Berghütte (Gebäude & Orte)
+1616: Almhütte (Gebäude & Orte)
+1617: Holzhütte (Gebäude & Orte)
+1618: Gartenhaus (Gebäude & Orte)
+1619: Laube (Gebäude & Orte)
+1620: Schuppen (Gebäude & Orte)
+1621: Scheune (Gebäude & Orte)
+1622: Stall (Gebäude & Orte)
+1623: Pferdestall (Gebäude & Orte)
+1624: Kuhstall (Gebäude & Orte)
+1625: Hühnerstall (Gebäude & Orte)
+1626: Schweinestall (Gebäude & Orte)
+1627: Silo (Gebäude & Orte)
+1628: Gewächshaus (Gebäude & Orte)
+1629: Wintergarten (Gebäude & Orte)
+1630: Garage (Gebäude & Orte)
+1631: Carport (Gebäude & Orte)
+1632: Parkhaus (Gebäude & Orte)
+1633: Tiefgarage (Gebäude & Orte)
+1634: Parkplatz (Gebäude & Orte)
+1635: Rastplatz (Gebäude & Orte)
+1636: Raststätte (Gebäude & Orte)
+1637: Tankstelle (Gebäude & Orte)
+1638: Waschanlage (Gebäude & Orte)
+1639: Werkstatt (Gebäude & Orte)
+1640: Autowerkstatt (Gebäude & Orte)
+1641: Fabrik (Gebäude & Orte)
+1642: Lagerhalle (Gebäude & Orte)
+1643: Halle (Gebäude & Orte)
+1644: Kraftwerk (Gebäude & Orte)
+1645: Windrad (Gebäude & Orte)
+1646: Windmühle (Gebäude & Orte)
+1647: Wassermühle (Gebäude & Orte)
+1648: Sägewerk (Gebäude & Orte)
+1649: Bäckerei (Gebäude & Orte)
+1650: Konditorei (Gebäude & Orte)
+1651: Metzgerei (Gebäude & Orte)
+1652: Fleischerei (Gebäude & Orte)
+1653: Käserei (Gebäude & Orte)
+1654: Molkerei (Gebäude & Orte)
+1655: Apotheke (Gebäude & Orte)
+1656: Drogerie (Gebäude & Orte)
+1657: Supermarkt (Gebäude & Orte)
+1658: Discounter (Gebäude & Orte)
+1659: Lebensmittelladen (Gebäude & Orte)
+1660: Tante-Emma-Laden (Gebäude & Orte)
+1661: Kaufhaus (Gebäude & Orte)
+1662: Einkaufszentrum (Gebäude & Orte)
+1663: Markthalle (Gebäude & Orte)
+1664: Marktplatz (Gebäude & Orte)
+1665: Wochenmarkt (Gebäude & Orte)
+1666: Flohmarkt (Gebäude & Orte)
+1667: Buchhandlung (Gebäude & Orte)
+1668: Bücherei (Gebäude & Orte)
+1669: Bibliothek (Gebäude & Orte)
+1670: Blumenladen (Gebäude & Orte)
+1671: Gärtnerei (Gebäude & Orte)
+1672: Baumarkt (Gebäude & Orte)
+1673: Möbelhaus (Gebäude & Orte)
+1674: Spielzeugladen (Gebäude & Orte)
+1675: Schuhgeschäft (Gebäude & Orte)
+1676: Bekleidungsgeschäft (Gebäude & Orte)
+1677: Juwelier (Gebäude & Orte)
+1679: Friseursalon (Gebäude & Orte)
+1680: Postfiliale (Gebäude & Orte)
+1681: Bankfiliale (Gebäude & Orte)
+1682: Sparkasse (Gebäude & Orte)
+1683: Rathaus (Gebäude & Orte)
+1684: Bürgeramt (Gebäude & Orte)
+1685: Finanzamt (Gebäude & Orte)
+1686: Gerichtsgebäude (Gebäude & Orte)
+1687: Polizeiwache (Gebäude & Orte)
+1688: Feuerwache (Gebäude & Orte)
+1689: Krankenhaus (Gebäude & Orte)
+1690: Klinik (Gebäude & Orte)
+1691: Kinderklinik (Gebäude & Orte)
+1692: Arztpraxis (Gebäude & Orte)
+1693: Zahnarztpraxis (Gebäude & Orte)
+1694: Tierarztpraxis (Gebäude & Orte)
+1695: Tierheim (Gebäude & Orte)
+1696: Altenheim (Gebäude & Orte)
+1697: Pflegeheim (Gebäude & Orte)
+1698: Kindergarten (Gebäude & Orte)
+1699: Kita (Gebäude & Orte)
+1700: Vorschule (Gebäude & Orte)
+1701: Schule (Gebäude & Orte)
+1702: Grundschule (Gebäude & Orte)
+1703: Realschule (Gebäude & Orte)
+1704: Gymnasium (Gebäude & Orte)
+1705: Gesamtschule (Gebäude & Orte)
+1706: Berufsschule (Gebäude & Orte)
+1707: Musikschule (Gebäude & Orte)
+1708: Fahrschule (Gebäude & Orte)
+1709: Tanzschule (Gebäude & Orte)
+1710: Volkshochschule (Gebäude & Orte)
+1711: Universität (Gebäude & Orte)
+1712: Hochschule (Gebäude & Orte)
+1713: Hörsaal (Gebäude & Orte)
+1714: Klassenzimmer (Gebäude & Orte)
+1715: Turnhalle (Gebäude & Orte)
+1716: Sporthalle (Gebäude & Orte)
+1717: Stadion (Gebäude & Orte)
+1718: Fußballstadion (Gebäude & Orte)
+1719: Sportplatz (Gebäude & Orte)
+1720: Bolzplatz (Gebäude & Orte)
+1721: Tennisplatz (Gebäude & Orte)
+1722: Golfplatz (Gebäude & Orte)
+1723: Reithalle (Gebäude & Orte)
+1724: Reitplatz (Gebäude & Orte)
+1725: Eissporthalle (Gebäude & Orte)
+1726: Eisbahn (Gebäude & Orte)
+1727: Schwimmbad (Gebäude & Orte)
+1728: Hallenbad (Gebäude & Orte)
+1729: Freibad (Gebäude & Orte)
+1730: Spaßbad (Gebäude & Orte)
+1731: Therme (Gebäude & Orte)
+1732: Sauna (Gebäude & Orte)
+1733: Fitnessstudio (Gebäude & Orte)
+1734: Kletterhalle (Gebäude & Orte)
+1735: Bowlingbahn (Gebäude & Orte)
+1736: Kegelbahn (Gebäude & Orte)
+1737: Minigolfplatz (Gebäude & Orte)
+1738: Spielplatz (Gebäude & Orte)
+1739: Abenteuerspielplatz (Gebäude & Orte)
+1740: Sandkasten (Gebäude & Orte)
+1741: Freizeitpark (Gebäude & Orte)
+1742: Vergnügungspark (Gebäude & Orte)
+1743: Jahrmarkt (Gebäude & Orte)
+1744: Rummel (Gebäude & Orte)
+1745: Zirkus (Gebäude & Orte)
+1746: Zirkuszelt (Gebäude & Orte)
+1747: Zoo (Gebäude & Orte)
+1748: Tierpark (Gebäude & Orte)
+1749: Wildpark (Gebäude & Orte)
+1750: Aquarium (Gebäude & Orte)
+1751: Terrarium (Gebäude & Orte)
+1752: Planetarium (Gebäude & Orte)
+1753: Sternwarte (Gebäude & Orte)
+1754: Museum (Gebäude & Orte)
+1755: Kunstmuseum (Gebäude & Orte)
+1756: Heimatmuseum (Gebäude & Orte)
+1757: Freilichtmuseum (Gebäude & Orte)
+1758: Galerie (Gebäude & Orte)
+1759: Theater (Gebäude & Orte)
+1760: Opernhaus (Gebäude & Orte)
+1761: Schauspielhaus (Gebäude & Orte)
+1762: Puppentheater (Gebäude & Orte)
+1763: Kino (Gebäude & Orte)
+1764: Konzertsaal (Gebäude & Orte)
+1765: Konzerthalle (Gebäude & Orte)
+1766: Messehalle (Gebäude & Orte)
+1767: Veranstaltungshalle (Gebäude & Orte)
+1768: Kulturzentrum (Gebäude & Orte)
+1769: Jugendzentrum (Gebäude & Orte)
+1770: Gemeindehaus (Gebäude & Orte)
+1771: Kirche (Gebäude & Orte)
+1772: Dom (Gebäude & Orte)
+1773: Kathedrale (Gebäude & Orte)
+1774: Kapelle (Gebäude & Orte)
+1775: Kloster (Gebäude & Orte)
+1776: Moschee (Gebäude & Orte)
+1777: Synagoge (Gebäude & Orte)
+1778: Tempel (Gebäude & Orte)
+1779: Friedhof (Gebäude & Orte)
+1780: Schloss (Gebäude & Orte)
+1781: Burg (Gebäude & Orte)
+1782: Ritterburg (Gebäude & Orte)
+1783: Palast (Gebäude & Orte)
+1784: Festung (Gebäude & Orte)
+1785: Ruine (Gebäude & Orte)
+1786: Turm (Gebäude & Orte)
+1787: Aussichtsturm (Gebäude & Orte)
+1788: Fernsehturm (Gebäude & Orte)
+1789: Glockenturm (Gebäude & Orte)
+1790: Wasserturm (Gebäude & Orte)
+1791: Brunnen (Gebäude & Orte)
+1792: Marktbrunnen (Gebäude & Orte)
+1793: Denkmal (Gebäude & Orte)
+1794: Park (Gebäude & Orte)
+1795: Stadtpark (Gebäude & Orte)
+1796: Schlosspark (Gebäude & Orte)
+1797: Botanischer Garten (Gebäude & Orte)
+1798: Garten (Gebäude & Orte)
+1799: Schrebergarten (Gebäude & Orte)
+1800: Hotel (Gebäude & Orte)
+1801: Computer (Technik & Freizeit)
+1802: Laptop (Technik & Freizeit)
+1803: Notebook (Technik & Freizeit)
+1804: Tablet (Technik & Freizeit)
+1805: Smartphone (Technik & Freizeit)
+1806: Handy (Technik & Freizeit)
+1807: Telefon (Technik & Freizeit)
+1808: Festnetztelefon (Technik & Freizeit)
+1809: Smartwatch (Technik & Freizeit)
+1810: Monitor (Technik & Freizeit)
+1811: Bildschirm (Technik & Freizeit)
+1812: Tastatur (Technik & Freizeit)
+1813: Maus (Technik & Freizeit)
+1814: Computermaus (Technik & Freizeit)
+1815: Mauspad (Technik & Freizeit)
+1816: Drucker (Technik & Freizeit)
+1817: Scanner (Technik & Freizeit)
+1818: Kopierer (Technik & Freizeit)
+1819: Router (Technik & Freizeit)
+1820: Modem (Technik & Freizeit)
+1821: Festplatte (Technik & Freizeit)
+1822: USB-Stick (Technik & Freizeit)
+1823: Speicherkarte (Technik & Freizeit)
+1824: Ladekabel (Technik & Freizeit)
+1825: Ladegerät (Technik & Freizeit)
+1826: Netzteil (Technik & Freizeit)
+1827: Steckdose (Technik & Freizeit)
+1828: Stecker (Technik & Freizeit)
+1829: Mehrfachstecker (Technik & Freizeit)
+1830: Verlängerungskabel (Technik & Freizeit)
+1831: Batterie (Technik & Freizeit)
+1832: Akku (Technik & Freizeit)
+1833: Powerbank (Technik & Freizeit)
+1834: Fernseher (Technik & Freizeit)
+1835: Fernbedienung (Technik & Freizeit)
+1836: Radio (Technik & Freizeit)
+1837: Weltempfänger (Technik & Freizeit)
+1838: Lautsprecher (Technik & Freizeit)
+1839: Box (Technik & Freizeit)
+1840: Kopfhörer (Technik & Freizeit)
+1841: Ohrhörer (Technik & Freizeit)
+1842: Headset (Technik & Freizeit)
+1843: Mikrofon (Technik & Freizeit)
+1844: Plattenspieler (Technik & Freizeit)
+1845: CD-Player (Technik & Freizeit)
+1846: MP3-Player (Technik & Freizeit)
+1847: Kamera (Technik & Freizeit)
+1848: Digitalkamera (Technik & Freizeit)
+1849: Spiegelreflexkamera (Technik & Freizeit)
+1850: Videokamera (Technik & Freizeit)
+1851: Webcam (Technik & Freizeit)
+1852: Stativ (Technik & Freizeit)
+1853: Objektiv (Technik & Freizeit)
+1854: Blitzgerät (Technik & Freizeit)
+1855: Fernglas (Technik & Freizeit)
+1856: Teleskop (Technik & Freizeit)
+1857: Fernrohr (Technik & Freizeit)
+1858: Mikroskop (Technik & Freizeit)
+1859: Lupe (Technik & Freizeit)
+1860: Kompass (Technik & Freizeit)
+1861: Navigationsgerät (Technik & Freizeit)
+1862: Drohne (Technik & Freizeit)
+1863: Roboter (Technik & Freizeit)
+1864: Staubsaugerroboter (Technik & Freizeit)
+1865: Rasenmäher (Technik & Freizeit)
+1867: Bohrmaschine (Technik & Freizeit)
+1868: Akkuschrauber (Technik & Freizeit)
+1869: Säge (Technik & Freizeit)
+1870: Kettensäge (Technik & Freizeit)
+1871: Stichsäge (Technik & Freizeit)
+1872: Kreissäge (Technik & Freizeit)
+1873: Schleifmaschine (Technik & Freizeit)
+1874: Hammer (Technik & Freizeit)
+1875: Schraubenzieher (Technik & Freizeit)
+1876: Schraubendreher (Technik & Freizeit)
+1877: Zange (Technik & Freizeit)
+1878: Kneifzange (Technik & Freizeit)
+1879: Rohrzange (Technik & Freizeit)
+1880: Schraubenschlüssel (Technik & Freizeit)
+1881: Maßband (Technik & Freizeit)
+1882: Zollstock (Technik & Freizeit)
+1883: Wasserwaage (Technik & Freizeit)
+1884: Pinsel (Technik & Freizeit)
+1885: Farbroller (Technik & Freizeit)
+1886: Leiter (Technik & Freizeit)
+1887: Trittleiter (Technik & Freizeit)
+1888: Werkzeugkasten (Technik & Freizeit)
+1889: Buch (Technik & Freizeit)
+1890: Bilderbuch (Technik & Freizeit)
+1891: Kinderbuch (Technik & Freizeit)
+1892: Märchenbuch (Technik & Freizeit)
+1893: Comic (Technik & Freizeit)
+1894: Lexikon (Technik & Freizeit)
+1895: Wörterbuch (Technik & Freizeit)
+1896: Atlas (Technik & Freizeit)
+1897: Zeitung (Technik & Freizeit)
+1898: Zeitschrift (Technik & Freizeit)
+1899: Magazin (Technik & Freizeit)
+1900: Heft (Technik & Freizeit)
+1901: Schulheft (Technik & Freizeit)
+1902: Notizbuch (Technik & Freizeit)
+1903: Tagebuch (Technik & Freizeit)
+1904: Kalender (Technik & Freizeit)
+1905: Wandkalender (Technik & Freizeit)
+1906: Stift (Technik & Freizeit)
+1907: Bleistift (Technik & Freizeit)
+1908: Buntstift (Technik & Freizeit)
+1909: Filzstift (Technik & Freizeit)
+1910: Füller (Technik & Freizeit)
+1911: Kugelschreiber (Technik & Freizeit)
+1912: Textmarker (Technik & Freizeit)
+1913: Kreide (Technik & Freizeit)
+1915: Radiergummi (Technik & Freizeit)
+1916: Spitzer (Technik & Freizeit)
+1917: Lineal (Technik & Freizeit)
+1918: Geodreieck (Technik & Freizeit)
+1919: Zirkel (Technik & Freizeit)
+1920: Schere (Technik & Freizeit)
+1921: Kleber (Technik & Freizeit)
+1922: Klebestift (Technik & Freizeit)
+1923: Tesafilm (Technik & Freizeit)
+1924: Rucksack (Technik & Freizeit)
+1925: Schulranzen (Technik & Freizeit)
+1926: Mäppchen (Technik & Freizeit)
+1927: Federmäppchen (Technik & Freizeit)
+1929: Wasserfarben (Technik & Freizeit)
+1930: Staffelei (Technik & Freizeit)
+1931: Leinwand (Technik & Freizeit)
+1932: Ball (Technik & Freizeit)
+1933: Fußball (Technik & Freizeit)
+1934: Basketball (Technik & Freizeit)
+1935: Volleyball (Technik & Freizeit)
+1936: Handball (Technik & Freizeit)
+1937: Tennisball (Technik & Freizeit)
+1938: Tischtennisball (Technik & Freizeit)
+1939: Golfball (Technik & Freizeit)
+1940: Federball (Technik & Freizeit)
+1941: Schläger (Technik & Freizeit)
+1942: Tennisschläger (Technik & Freizeit)
+1943: Tischtennisschläger (Technik & Freizeit)
+1944: Badmintonschläger (Technik & Freizeit)
+1945: Golfschläger (Technik & Freizeit)
+1946: Hockeyschläger (Technik & Freizeit)
+1947: Baseballschläger (Technik & Freizeit)
+1948: Tor (Technik & Freizeit)
+1949: Fußballtor (Technik & Freizeit)
+1950: Netz (Technik & Freizeit)
+1951: Korb (Technik & Freizeit)
+1952: Basketballkorb (Technik & Freizeit)
+1953: Ski (Technik & Freizeit)
+1954: Snowboard (Technik & Freizeit)
+1955: Schlittschuh (Technik & Freizeit)
+1956: Inlineskates (Technik & Freizeit)
+1957: Rollschuhe (Technik & Freizeit)
+1958: Helm (Technik & Freizeit)
+1959: Fahrradhelm (Technik & Freizeit)
+1960: Skihelm (Technik & Freizeit)
+1961: Schwimmbrille (Technik & Freizeit)
+1962: Taucherbrille (Technik & Freizeit)
+1963: Schnorchel (Technik & Freizeit)
+1964: Schwimmflügel (Technik & Freizeit)
+1965: Luftmatratze (Technik & Freizeit)
+1966: Schwimmring (Technik & Freizeit)
+1967: Zelt (Technik & Freizeit)
+1968: Schlafsack (Technik & Freizeit)
+1969: Isomatte (Technik & Freizeit)
+1970: Lagerfeuer (Technik & Freizeit)
+1971: Angel (Technik & Freizeit)
+1972: Angelrute (Technik & Freizeit)
+1973: Kescher (Technik & Freizeit)
+1974: Gitarre (Technik & Freizeit)
+1975: E-Gitarre (Technik & Freizeit)
+1976: Klavier (Technik & Freizeit)
+1977: Flügel (Technik & Freizeit)
+1978: Keyboard (Technik & Freizeit)
+1979: Geige (Technik & Freizeit)
+1980: Violine (Technik & Freizeit)
+1981: Cello (Technik & Freizeit)
+1982: Kontrabass (Technik & Freizeit)
+1983: Harfe (Technik & Freizeit)
+1984: Flöte (Technik & Freizeit)
+1985: Blockflöte (Technik & Freizeit)
+1986: Querflöte (Technik & Freizeit)
+1987: Trompete (Technik & Freizeit)
+1988: Posaune (Technik & Freizeit)
+1989: Saxofon (Technik & Freizeit)
+1990: Klarinette (Technik & Freizeit)
+1991: Trommel (Technik & Freizeit)
+1992: Schlagzeug (Technik & Freizeit)
+1994: Triangel (Technik & Freizeit)
+1995: Mundharmonika (Technik & Freizeit)
+1996: Akkordeon (Technik & Freizeit)
+1997: Puppe (Technik & Freizeit)
+1998: Teddybär (Technik & Freizeit)
+1999: Kuscheltier (Technik & Freizeit)
+2000: Baustein (Technik & Freizeit)
