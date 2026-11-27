@@ -2984,7 +2984,8 @@
     "zielwort": "Trauerweide",
     "kategorie": "Natur & Wetter",
     "datei": "raetsel/0429_trauerweide.json",
-    "anzahl": 12687
+    "anzahl": 12687,
+    "zielwort_entfernt": true
   },
   {
     "id": 430,
@@ -2998,28 +2999,32 @@
     "zielwort": "Erle",
     "kategorie": "Natur & Wetter",
     "datei": "raetsel/0431_erle.json",
-    "anzahl": 12687
+    "anzahl": 12687,
+    "zielwort_entfernt": true
   },
   {
     "id": 432,
     "zielwort": "Esche",
     "kategorie": "Natur & Wetter",
     "datei": "raetsel/0432_esche.json",
-    "anzahl": 12687
+    "anzahl": 12687,
+    "zielwort_entfernt": true
   },
   {
     "id": 433,
     "zielwort": "Ulme",
     "kategorie": "Natur & Wetter",
     "datei": "raetsel/0433_ulme.json",
-    "anzahl": 12687
+    "anzahl": 12687,
+    "zielwort_entfernt": true
   },
   {
     "id": 435,
     "zielwort": "Holunder",
     "kategorie": "Natur & Wetter",
     "datei": "raetsel/0435_holunder.json",
-    "anzahl": 12687
+    "anzahl": 12687,
+    "zielwort_entfernt": true
   },
   {
     "id": 436,
@@ -3040,7 +3045,8 @@
     "zielwort": "Narzisse",
     "kategorie": "Natur & Wetter",
     "datei": "raetsel/0438_narzisse.json",
-    "anzahl": 12687
+    "anzahl": 12687,
+    "zielwort_entfernt": true
   },
   {
     "id": 439,
@@ -3096,7 +3102,8 @@
     "zielwort": "Maiglöckchen",
     "kategorie": "Natur & Wetter",
     "datei": "raetsel/0446_maiglöckchen.json",
-    "anzahl": 12687
+    "anzahl": 12687,
+    "zielwort_entfernt": true
   },
   {
     "id": 447,
@@ -3117,7 +3124,8 @@
     "zielwort": "Hyazinthe",
     "kategorie": "Natur & Wetter",
     "datei": "raetsel/0449_hyazinthe.json",
-    "anzahl": 12687
+    "anzahl": 12687,
+    "zielwort_entfernt": true
   },
   {
     "id": 450,
