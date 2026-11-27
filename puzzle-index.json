@@ -3570,7 +3570,8 @@
     "zielwort": "Kliff",
     "kategorie": "Natur & Wetter",
     "datei": "raetsel/0512_kliff.json",
-    "anzahl": 12687
+    "anzahl": 12687,
+    "zielwort_entfernt": true
   },
   {
     "id": 513,
@@ -3682,7 +3683,8 @@
     "zielwort": "Strom",
     "kategorie": "Natur & Wetter",
     "datei": "raetsel/0528_strom.json",
-    "anzahl": 12686
+    "anzahl": 12686,
+    "zielwort_entfernt": true
   },
   {
     "id": 529,
