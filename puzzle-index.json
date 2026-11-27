@@ -7341,7 +7341,8 @@
     "zielwort": "Rollo",
     "kategorie": "Haushalt",
     "datei": "raetsel/1068_rollo.json",
-    "anzahl": 12686
+    "anzahl": 12686,
+    "zielwort_entfernt": true
   },
   {
     "id": 1069,
