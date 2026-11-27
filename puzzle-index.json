@@ -748,7 +748,8 @@
     "zielwort": "Ozelot",
     "kategorie": "Tiere",
     "datei": "raetsel/0106_ozelot.json",
-    "anzahl": 12687
+    "anzahl": 12687,
+    "zielwort_entfernt": true
   },
   {
     "id": 107,
@@ -811,14 +812,16 @@
     "zielwort": "Wombat",
     "kategorie": "Tiere",
     "datei": "raetsel/0115_wombat.json",
-    "anzahl": 12687
+    "anzahl": 12687,
+    "zielwort_entfernt": true
   },
   {
     "id": 116,
     "zielwort": "Opossum",
     "kategorie": "Tiere",
     "datei": "raetsel/0116_opossum.json",
-    "anzahl": 12687
+    "anzahl": 12687,
+    "zielwort_entfernt": true
   },
   {
     "id": 117,
@@ -860,14 +863,16 @@
     "zielwort": "Schakal",
     "kategorie": "Tiere",
     "datei": "raetsel/0122_schakal.json",
-    "anzahl": 12687
+    "anzahl": 12687,
+    "zielwort_entfernt": true
   },
   {
     "id": 123,
     "zielwort": "Dingo",
     "kategorie": "Tiere",
     "datei": "raetsel/0123_dingo.json",
-    "anzahl": 12687
+    "anzahl": 12687,
+    "zielwort_entfernt": true
   },
   {
     "id": 124,
@@ -902,7 +907,8 @@
     "zielwort": "Baummarder",
     "kategorie": "Tiere",
     "datei": "raetsel/0128_baummarder.json",
-    "anzahl": 12687
+    "anzahl": 12687,
+    "zielwort_entfernt": true
   },
   {
     "id": 129,
@@ -916,14 +922,16 @@
     "zielwort": "Hermelin",
     "kategorie": "Tiere",
     "datei": "raetsel/0130_hermelin.json",
-    "anzahl": 12687
+    "anzahl": 12687,
+    "zielwort_entfernt": true
   },
   {
     "id": 131,
     "zielwort": "Iltis",
     "kategorie": "Tiere",
     "datei": "raetsel/0131_iltis.json",
-    "anzahl": 12687
+    "anzahl": 12687,
+    "zielwort_entfernt": true
   },
   {
     "id": 132,
@@ -958,14 +966,16 @@
     "zielwort": "Bisamratte",
     "kategorie": "Tiere",
     "datei": "raetsel/0136_bisamratte.json",
-    "anzahl": 12687
+    "anzahl": 12687,
+    "zielwort_entfernt": true
   },
   {
     "id": 137,
     "zielwort": "Nutria",
     "kategorie": "Tiere",
     "datei": "raetsel/0137_nutria.json",
-    "anzahl": 12687
+    "anzahl": 12687,
+    "zielwort_entfernt": true
   },
   {
     "id": 138,
@@ -986,7 +996,8 @@
     "zielwort": "Siebenschläfer",
     "kategorie": "Tiere",
     "datei": "raetsel/0140_siebenschläfer.json",
-    "anzahl": 12687
+    "anzahl": 12687,
+    "zielwort_entfernt": true
   },
   {
     "id": 141,
@@ -1014,7 +1025,8 @@
     "zielwort": "Spitzmaus",
     "kategorie": "Tiere",
     "datei": "raetsel/0144_spitzmaus.json",
-    "anzahl": 12687
+    "anzahl": 12687,
+    "zielwort_entfernt": true
   },
   {
     "id": 145,
@@ -1063,7 +1075,8 @@
     "zielwort": "Lemur",
     "kategorie": "Tiere",
     "datei": "raetsel/0153_lemur.json",
-    "anzahl": 12687
+    "anzahl": 12687,
+    "zielwort_entfernt": true
   },
   {
     "id": 154,
