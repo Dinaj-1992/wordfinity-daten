@@ -3160,7 +3160,8 @@
     "zielwort": "Hortensie",
     "kategorie": "Natur & Wetter",
     "datei": "raetsel/0454_hortensie.json",
-    "anzahl": 12687
+    "anzahl": 12687,
+    "zielwort_entfernt": true
   },
   {
     "id": 455,
@@ -3384,21 +3385,24 @@
     "zielwort": "Lichtung",
     "kategorie": "Natur & Wetter",
     "datei": "raetsel/0486_lichtung.json",
-    "anzahl": 12686
+    "anzahl": 12686,
+    "zielwort_entfernt": true
   },
   {
     "id": 487,
     "zielwort": "Dickicht",
     "kategorie": "Natur & Wetter",
     "datei": "raetsel/0487_dickicht.json",
-    "anzahl": 12687
+    "anzahl": 12687,
+    "zielwort_entfernt": true
   },
   {
     "id": 488,
     "zielwort": "Heide",
     "kategorie": "Natur & Wetter",
     "datei": "raetsel/0488_heide.json",
-    "anzahl": 12687
+    "anzahl": 12687,
+    "zielwort_entfernt": true
   },
   {
     "id": 489,
